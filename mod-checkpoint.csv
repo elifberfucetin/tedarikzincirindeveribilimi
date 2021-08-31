@@ -1,0 +1,1001 @@
+﻿Invoice ID;Branch;Country;Customer type;Gender;Product line;Unit price;Quantity;Tax 5%;Total;Date;Time;Payment;gross income;Rating
+750-67-8428;A;Izmir;Member;Kadın;Saglık ve Guzellik;?7.469;7;261415;5489715;1.05.2019;0.547222222;Ecuzdan;?261.415;9.0 
+226-31-3081;C;Aydın;Normal;Kadın;Elektronik aksesuar;?1.528;5;382;8022;3.08.2019;0.436805556;Nakit;?382;9.5 
+631-41-3108;A;Izmir;Normal;Erkek;Ev ve Yasam;?4.633;7;162155;3405255;3.03.2019;0.557638889;Kredi kartı;?162.155;7.3 
+123-19-1176;A;Izmir;Member;Erkek;Saglık ve Guzellik;?5.822;8;23288;489048;1/27/2019;0.85625;Ecuzdan;?23.288;8.3 
+373-73-7910;A;Izmir;Normal;Erkek;Spor ve gezi;?8.631;7;302085;6343785;2.08.2019;0.442361111;Ecuzdan;?302.085;5.2 
+699-14-3026;C;Aydın;Normal;Erkek;Elektronik aksesuar;?8.539;7;298865;6276165;3/25/2019;0.770833333;Ecuzdan;?298.865;4.1 
+355-53-5943;A;Izmir;Member;Kadın;Elektronik aksesuar;?6.884;6;20652;433692;2/25/2019;0.608333333;Ecuzdan;?20.652;5.7 
+315-22-5665;C;Aydın;Normal;Kadın;Ev ve Yasam;?7.356;10;3678;77238;2/24/2019;0.484722222;Ecuzdan;?3.678;0.8 
+665-32-9167;A;Izmir;Member;Kadın;Saglık ve Guzellik;?3.626;2;3626;76146;1.10.2019;0.71875;Kredi kartı;?3.626;7.1 
+692-92-5582;B;Manisa;Member;Kadın;Yiyecek icecek;?5.484;3;8226;172746;2/20/2019;0.560416667;Kredi kartı;?8.226;5.8 
+351-62-0822;B;Manisa;Member;Kadın;Moda aksesuar;?1.448;4;2896;60816;2.06.2019;0.754861111;Ecuzdan;?2.896;4.5 
+529-56-3974;B;Manisa;Member;Erkek;Elektronik aksesuar;?2.551;4;5102;107142;3.09.2019;0.710416667;Nakit;?5.102;6.7 
+365-64-0515;A;Izmir;Normal;Kadın;Elektronik aksesuar;?4.695;5;117375;2464875;2.12.2019;0.434027778;Ecuzdan;?117.375;7.0 
+252-56-2699;A;Izmir;Normal;Erkek;Yiyecek icecek;?4.319;10;21595;453495;2.07.2019;0.7;Ecuzdan;?21.595;8.1 
+829-34-3910;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?7.138;10;3569;74949;3/29/2019;0.80625;Nakit;?3.569;5.6 
+299-46-1805;B;Manisa;Member;Kadın;Spor ve gezi;?9.372;6;28116;590436;1/15/2019;0.679861111;Nakit;?28.116;4.5 
+656-95-9349;A;Izmir;Member;Kadın;Saglık ve Guzellik;?6.893;7;241255;5066355;3.11.2019;0.460416667;Kredi kartı;?241.255;4.6 
+765-26-6951;A;Izmir;Normal;Erkek;Spor ve gezi;?7.261;6;21783;457443;1.01.2019;0.44375;Kredi kartı;?21.783;6.8 
+329-62-1586;A;Izmir;Normal;Erkek;Yiyecek icecek;?5.467;3;82005;1722105;1/21/2019;0.75;Kredi kartı;?82.005;8.5 
+319-50-3348;B;Manisa;Normal;Kadın;Ev ve Yasam;?403;2;403;8463;3.11.2019;0.645833333;Ecuzdan;?403;4.4 
+300-71-4605;C;Aydın;Member;Erkek;Elektronik aksesuar;?8.604;5;2151;45171;2/25/2019;0.475;Ecuzdan;?2.151;4.8 
+371-85-5789;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?8.798;3;13197;277137;3.05.2019;0.444444444;Ecuzdan;?13.197;5.0 
+273-16-6619;B;Manisa;Normal;Erkek;Ev ve Yasam;?332;2;332;6972;3/15/2019;0.513888889;Kredi kartı;?332;4.4 
+636-48-8204;A;Izmir;Normal;Erkek;Elektronik aksesuar;?3.456;5;864;18144;2/17/2019;0.46875;Ecuzdan;?864;9.8 
+549-59-1358;A;Izmir;Member;Erkek;Spor ve gezi;?8.863;3;132945;2791845;3.02.2019;0.733333333;Ecuzdan;?132.945;0.6 
+227-03-5010;A;Izmir;Member;Kadın;Ev ve Yasam;?5.259;8;21036;441756;3/22/2019;0.805555556;Kredi kartı;?21.036;8.4 
+649-29-6775;B;Manisa;Normal;Erkek;Moda aksesuar;?3.352;1;1676;35196;2.08.2019;0.646527778;Nakit;?1.676;6.6 
+189-17-4241;A;Izmir;Normal;Kadın;Moda aksesuar;?8.767;2;8767;184107;3.10.2019;0.511805556;Kredi kartı;?8.767;7.6 
+145-94-9061;B;Manisa;Normal;Kadın;Yiyecek icecek;?8.836;5;2209;46389;1/25/2019;0.825;Nakit;?2.209;9.5 
+848-62-7243;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?2.489;9;112005;2352105;3/15/2019;0.65;Nakit;?112.005;7.3 
+871-79-8483;B;Manisa;Normal;Erkek;Moda aksesuar;?9.413;5;235325;4941825;2/25/2019;0.81875;Kredi kartı;?235.325;4.8 
+149-71-6266;B;Manisa;Member;Erkek;Spor ve gezi;?7.807;9;351315;7377615;1/28/2019;0.529861111;Nakit;?351.315;4.5 
+640-49-2076;B;Manisa;Normal;Erkek;Spor ve gezi;?8.378;8;33512;703752;1.10.2019;0.617361111;Nakit;?33.512;5.0 
+595-11-5460;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?9.658;2;9658;202818;3/15/2019;0.425;Kredi kartı;?9.658;5.0 
+183-56-6882;C;Aydın;Member;Kadın;Yiyecek icecek;?9.942;4;19884;417564;2.06.2019;0.445833333;Ecuzdan;?19.884;7.4 
+232-16-2483;C;Aydın;Member;Kadın;Spor ve gezi;?6.812;1;3406;71526;1.07.2019;0.519444444;Ecuzdan;?3.406;6.7 
+129-29-8530;A;Izmir;Member;Erkek;Spor ve gezi;?6.262;5;15655;328755;3.10.2019;0.802083333;Ecuzdan;?15.655;0.7 
+272-65-1806;A;Izmir;Normal;Kadın;Elektronik aksesuar;?6.088;9;27396;575316;1/15/2019;0.720138889;Ecuzdan;?27.396;4.7 
+333-73-7901;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?5.492;8;21968;461328;3/23/2019;0.558333333;Ecuzdan;?21.968;7.5 
+777-82-7220;B;Manisa;Member;Erkek;Ev ve Yasam;?3.012;8;12048;253008;3.03.2019;0.542361111;Nakit;?12.048;7.6 
+280-35-5823;B;Manisa;Member;Kadın;Ev ve Yasam;?8.672;1;4336;91056;1/17/2019;0.78125;Ecuzdan;?4.336;7.8 
+554-53-8700;C;Aydın;Member;Erkek;Ev ve Yasam;?5.611;2;5611;117831;2.02.2019;0.424305556;Nakit;?5.611;6.2 
+354-25-5821;B;Manisa;Member;Kadın;Spor ve gezi;?6.912;6;20736;435456;2.08.2019;0.54375;Nakit;?20.736;5.5 
+228-96-1411;C;Aydın;Member;Kadın;Yiyecek icecek;?987;8;3948;82908;3.04.2019;0.860416667;Nakit;?3.948;7.5 
+617-15-4209;C;Aydın;Member;Erkek;Saglık ve Guzellik;?1.537;2;1537;32277;3/16/2019;0.824305556;Nakit;?1.537;7.1 
+132-32-9879;B;Manisa;Member;Kadın;Elektronik aksesuar;?9.396;4;18792;394632;3.09.2019;0.75;Nakit;?18.792;9.4 
+370-41-7321;B;Manisa;Member;Erkek;Saglık ve Guzellik;?5.669;9;255105;5357205;2/27/2019;0.725;Kredi kartı;?255.105;8.3 
+727-46-3608;B;Manisa;Member;Kadın;Yiyecek icecek;?2.001;9;90045;1890945;2.06.2019;0.657638889;Ecuzdan;?90.045;4.1 
+669-54-1719;B;Manisa;Member;Erkek;Elektronik aksesuar;?1.893;6;5679;119259;2.10.2019;0.53125;Kredi kartı;?5.679;8.0 
+574-22-5561;C;Aydın;Member;Kadın;Moda aksesuar;?8.263;10;41315;867615;3/19/2019;0.713888889;Ecuzdan;?41.315;7.8 
+326-78-5178;C;Aydın;Member;Erkek;Yiyecek icecek;?914;7;3199;67179;2.03.2019;0.429861111;Nakit;?3.199;9.4 
+162-48-8011;A;Izmir;Member;Kadın;Yiyecek icecek;?4.459;5;111475;2340975;2.10.2019;0.631944444;Nakit;?111.475;8.4 
+616-24-2851;B;Manisa;Member;Kadın;Moda aksesuar;?1.787;4;3574;75054;3/22/2019;0.6125;Ecuzdan;?3.574;6.4 
+778-71-5554;C;Aydın;Member;Erkek;Moda aksesuar;?1.543;1;7715;162015;1/25/2019;0.656944444;Kredi kartı;?7.715;6.0 
+242-55-6721;B;Manisa;Normal;Erkek;Ev ve Yasam;?1.616;2;1616;33936;3.07.2019;0.492361111;Ecuzdan;?1.616;6.4 
+399-46-5918;C;Aydın;Normal;Kadın;Elektronik aksesuar;?8.598;8;34392;722232;2/28/2019;0.792361111;Nakit;?34.392;8.1 
+106-35-6779;A;Izmir;Member;Erkek;Ev ve Yasam;?4.434;2;4434;93114;3/27/2019;0.476388889;Nakit;?4.434;5.7 
+635-40-6220;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?896;8;3584;75264;2.07.2019;0.477777778;Ecuzdan;?3.584;6.5 
+817-48-8732;A;Izmir;Member;Kadın;Ev ve Yasam;?7.235;10;36175;759675;1/20/2019;0.663194444;Nakit;?36.175;5.3 
+120-06-4233;C;Aydın;Normal;Erkek;Elektronik aksesuar;?3.061;6;9183;192843;3.12.2019;0.858333333;Nakit;?9.183;9.2 
+285-68-5083;C;Aydın;Member;Kadın;Spor ve gezi;?2.474;3;3711;77931;2/15/2019;0.740972222;Kredi kartı;?3.711;1.0 
+803-83-5989;C;Aydın;Normal;Erkek;Ev ve Yasam;?5.573;6;16719;351099;2/24/2019;0.454861111;Ecuzdan;?16.719;0.7 
+347-34-2234;B;Manisa;Member;Kadın;Spor ve gezi;?5.507;9;247815;5204115;2.03.2019;0.569444444;Ecuzdan;?247.815;1.0 
+199-75-8169;A;Izmir;Member;Erkek;Spor ve gezi;?1.581;10;7905;166005;3.06.2019;0.51875;Kredi kartı;?7.905;8.5 
+853-23-2453;B;Manisa;Member;Erkek;Saglık ve Guzellik;?7.574;4;15148;318108;2/14/2019;0.607638889;Nakit;?15.148;7.5 
+877-22-3308;A;Izmir;Member;Erkek;Saglık ve Guzellik;?1.587;10;7935;166635;3/13/2019;0.694444444;Nakit;?7.935;5.7 
+838-78-4295;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?3.347;2;3347;70287;2.10.2019;0.654861111;Ecuzdan;?3.347;6.6 
+109-28-2512;B;Manisa;Member;Kadın;Moda aksesuar;?9.761;6;29283;614943;1.07.2019;0.625694444;Ecuzdan;?29.283;9.8 
+232-11-3025;A;Izmir;Normal;Erkek;Spor ve gezi;?7.877;10;39385;827085;1/24/2019;0.419444444;Nakit;?39.385;6.3 
+382-03-4532;A;Izmir;Member;Kadın;Saglık ve Guzellik;?1.833;1;9165;192465;2.02.2019;0.784722222;Nakit;?9.165;4.3 
+393-65-2792;C;Aydın;Normal;Erkek;Yiyecek icecek;?8.948;10;4474;93954;1.06.2019;0.531944444;Kredi kartı;?4.474;9.5 
+796-12-2025;C;Aydın;Normal;Erkek;Moda aksesuar;?6.212;10;3106;65226;2.11.2019;0.679861111;Nakit;?3.106;5.8 
+510-95-6347;B;Manisa;Member;Kadın;Yiyecek icecek;?4.852;3;7278;152838;3.05.2019;0.761805556;Ecuzdan;?7.278;0.4 
+841-35-6630;C;Aydın;Normal;Kadın;Elektronik aksesuar;?7.591;6;22773;478233;3.09.2019;0.764583333;Nakit;?22.773;8.6 
+287-21-9091;A;Izmir;Normal;Erkek;Ev ve Yasam;?7.467;9;336015;7056315;1/22/2019;0.454861111;Ecuzdan;?336.015;9.3 
+732-94-0499;C;Aydın;Normal;Kadın;Elektronik aksesuar;?4.165;10;20825;437325;1/13/2019;0.711111111;Kredi kartı;?20.825;5.3 
+263-10-3913;C;Aydın;Member;Erkek;Moda aksesuar;?4.904;9;22068;463428;1.09.2019;0.597222222;Kredi kartı;?22.068;8.5 
+381-20-0914;A;Izmir;Member;Kadın;Moda aksesuar;?2.001;9;90045;1890945;1.12.2019;0.658333333;Kredi kartı;?90.045;5.6 
+829-49-1914;C;Aydın;Member;Kadın;Yiyecek icecek;?7.831;10;39155;822255;3.05.2019;0.683333333;Ecuzdan;?39.155;6.5 
+756-01-7507;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?2.038;5;5095;106995;1/22/2019;0.788888889;Nakit;?5.095;0.6 
+870-72-4431;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?9.919;6;29757;624897;1/21/2019;0.6125;Kredi kartı;?29.757;5.4 
+847-38-7188;B;Manisa;Normal;Kadın;Yiyecek icecek;?9.668;3;14502;304542;1/26/2019;0.830555556;Ecuzdan;?14.502;6.3 
+480-63-2856;C;Aydın;Normal;Erkek;Yiyecek icecek;?1.925;8;77;1617;1/23/2019;0.775694444;Ecuzdan;?77;6.5 
+787-56-0757;C;Aydın;Member;Kadın;Yiyecek icecek;?8.036;4;16072;337512;2/23/2019;0.78125;Kredi kartı;?16.072;8.2 
+360-39-5055;C;Aydın;Member;Erkek;Spor ve gezi;?4.891;5;122275;2567775;3.09.2019;0.428472222;Nakit;?122.275;6.5 
+730-50-9884;C;Aydın;Normal;Kadın;Spor ve gezi;?8.306;7;29071;610491;3.05.2019;0.604861111;Ecuzdan;?29.071;0.4 
+362-58-8315;C;Aydın;Normal;Erkek;Moda aksesuar;?7.652;5;1913;40173;3/25/2019;0.432638889;Nakit;?1.913;9.8 
+633-44-8566;A;Izmir;Member;Erkek;Yiyecek icecek;?4.938;7;17283;362943;3/27/2019;0.857638889;Kredi kartı;?17.283;7.2 
+504-35-8843;A;Izmir;Normal;Erkek;Spor ve gezi;?4.247;1;21235;445935;1.02.2019;0.70625;Nakit;?21.235;5.6 
+318-68-5053;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?7.699;6;23097;485037;2/27/2019;0.746527778;Nakit;?23.097;6.0 
+565-80-5980;C;Aydın;Member;Kadın;Ev ve Yasam;?4.738;4;9476;198996;1/23/2019;0.434027778;Nakit;?9.476;7.0 
+225-32-0908;C;Aydın;Normal;Kadın;Spor ve gezi;?4.486;10;2243;47103;1/26/2019;0.829166667;Ecuzdan;?2.243;8.1 
+873-51-0671;A;Izmir;Member;Kadın;Spor ve gezi;?2.198;7;7693;161553;1.10.2019;0.695833333;Ecuzdan;?7.693;5.0 
+152-08-9985;B;Manisa;Member;Erkek;Saglık ve Guzellik;?6.436;9;28962;608202;3.12.2019;0.50625;Kredi kartı;?28.962;8.5 
+512-91-0811;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?8.975;1;44875;942375;2.06.2019;0.836805556;Kredi kartı;?44.875;6.5 
+594-34-4444;A;Izmir;Normal;Erkek;Elektronik aksesuar;?9.716;1;4858;102018;3.08.2019;0.859722222;Ecuzdan;?4.858;7.1 
+766-85-7061;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?8.787;10;43935;922635;3/29/2019;0.434027778;Ecuzdan;?43.935;5.0 
+871-39-9221;C;Aydın;Normal;Kadın;Elektronik aksesuar;?1.245;6;3735;78435;2.09.2019;0.549305556;Nakit;?3.735;4.1 
+865-92-6136;A;Izmir;Normal;Erkek;Yiyecek icecek;?5.275;3;79125;1661625;3/23/2019;0.427777778;Ecuzdan;?79.125;9.2 
+733-01-9107;B;Manisa;Normal;Erkek;Ev ve Yasam;?827;6;2481;52101;3.05.2019;0.759722222;Nakit;?2.481;7.3 
+163-56-7055;C;Aydın;Member;Erkek;Moda aksesuar;?4.871;1;24355;511455;3/26/2019;0.805555556;Nakit;?24.355;4.1 
+189-98-2939;C;Aydın;Normal;Erkek;Moda aksesuar;?7.855;9;353475;7422975;3.01.2019;0.556944444;Nakit;?353.475;7.1 
+551-21-3069;C;Aydın;Normal;Kadın;Elektronik aksesuar;?2.307;9;103815;2180115;2.01.2019;0.477083333;Nakit;?103.815;4.9 
+212-62-1842;A;Izmir;Normal;Erkek;Yiyecek icecek;?5.826;6;17478;367038;3/28/2019;0.697222222;Nakit;?17.478;9.8 
+716-39-1409;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?3.035;7;106225;2230725;3/19/2019;0.763194444;Nakit;?106.225;0.8 
+704-48-3927;A;Izmir;Member;Erkek;Elektronik aksesuar;?8.867;10;44335;931035;1.12.2019;0.618055556;Ecuzdan;?44.335;7.2 
+628-34-3388;C;Aydın;Normal;Erkek;Moda aksesuar;?2.738;6;8214;172494;1.05.2019;0.870833333;Kredi kartı;?8.214;7.8 
+630-74-5166;A;Izmir;Normal;Erkek;Spor ve gezi;?6.213;6;18639;391419;3/22/2019;0.846527778;Nakit;?18.639;7.3 
+588-01-7461;C;Aydın;Normal;Kadın;Yiyecek icecek;?3.398;9;15291;321111;3/24/2019;0.446527778;Nakit;?15.291;4.2 
+861-77-0145;C;Aydın;Member;Erkek;Elektronik aksesuar;?8.197;10;40985;860685;3.03.2019;0.604166667;Nakit;?40.985;9.1 
+479-26-8945;B;Manisa;Member;Kadın;Spor ve gezi;?1.649;2;1649;34629;2.05.2019;0.480555556;Ecuzdan;?1.649;4.6 
+210-67-5886;C;Aydın;Member;Kadın;Saglık ve Guzellik;?9.821;3;147315;3093615;2.05.2019;0.445138889;Kredi kartı;?147.315;7.7 
+227-78-1148;B;Manisa;Normal;Kadın;Moda aksesuar;?7.284;7;25494;535374;2/15/2019;0.530555556;Nakit;?25.494;8.3 
+645-44-1170;A;Izmir;Member;Erkek;Ev ve Yasam;?5.807;9;261315;5487615;1/19/2019;0.838194444;Ecuzdan;?261.315;4.3 
+237-01-6122;C;Aydın;Member;Kadın;Ev ve Yasam;?8.079;9;363555;7634655;2.01.2019;0.854861111;Kredi kartı;?363.555;9.4 
+225-98-1496;C;Aydın;Normal;Kadın;Moda aksesuar;?2.702;3;4053;85113;3.02.2019;0.542361111;Kredi kartı;?4.053;7.0 
+291-32-1427;B;Manisa;Member;Erkek;Moda aksesuar;?2.194;5;5485;115185;3.05.2019;0.520138889;Ecuzdan;?5.485;5.2 
+659-65-8956;B;Manisa;Member;Erkek;Moda aksesuar;?5.136;1;2568;53928;1/16/2019;0.643055556;Ecuzdan;?2.568;5.1 
+642-32-2990;A;Izmir;Normal;Kadın;Yiyecek icecek;?1.096;10;548;11508;2.02.2019;0.866666667;Ecuzdan;?548;0.6 
+378-24-2715;B;Manisa;Normal;Erkek;Ev ve Yasam;?5.344;2;5344;112224;1/20/2019;0.859722222;Ecuzdan;?5.344;4.1 
+638-60-7125;A;Izmir;Normal;Kadın;Elektronik aksesuar;?9.956;8;39824;836304;2/14/2019;0.710416667;Kredi kartı;?39.824;5.1 
+659-36-1684;C;Aydın;Member;Erkek;Spor ve gezi;?5.712;7;19992;419832;1.12.2019;0.501388889;Kredi kartı;?19.992;6.4 
+219-22-9386;B;Manisa;Member;Erkek;Spor ve gezi;?9.996;9;44982;944622;3.09.2019;0.726388889;Kredi kartı;?44.982;4.2 
+336-78-2147;C;Aydın;Member;Erkek;Ev ve Yasam;?6.391;8;25564;536844;3/13/2019;0.827777778;Kredi kartı;?25.564;4.6 
+268-27-6179;B;Manisa;Member;Kadın;Moda aksesuar;?5.647;8;22588;474348;3.09.2019;0.622916667;Ecuzdan;?22.588;7.2 
+668-90-8900;A;Izmir;Normal;Kadın;Ev ve Yasam;?9.369;7;327915;6886215;3.10.2019;0.780555556;Kredi kartı;?327.915;4.5 
+870-54-3162;A;Izmir;Normal;Kadın;Spor ve gezi;?3.225;5;80625;1693125;1/27/2019;0.559722222;Nakit;?80.625;0.9 
+189-08-9157;C;Aydın;Normal;Kadın;Moda aksesuar;?3.173;9;142785;2998485;1.08.2019;0.678472222;Kredi kartı;?142.785;5.8 
+663-86-9076;C;Aydın;Member;Kadın;Yiyecek icecek;?6.854;8;27416;575736;1.08.2019;0.664583333;Ecuzdan;?27.416;8.4 
+549-84-7482;B;Manisa;Normal;Kadın;Spor ve gezi;?9.028;9;40626;853146;2.08.2019;0.46875;Ecuzdan;?40.626;7.1 
+191-10-6171;B;Manisa;Normal;Kadın;Moda aksesuar;?3.962;7;13867;291207;1/25/2019;0.554166667;Nakit;?13.867;7.4 
+802-70-5316;A;Izmir;Member;Kadın;Spor ve gezi;?9.213;6;27639;580419;3.06.2019;0.856944444;Nakit;?27.639;8.2 
+695-51-0018;B;Manisa;Normal;Kadın;Spor ve gezi;?3.484;4;6968;146328;2.10.2019;0.775;Nakit;?6.968;7.3 
+590-83-4591;B;Manisa;Member;Erkek;Elektronik aksesuar;?8.745;6;26235;550935;2/17/2019;0.611111111;Kredi kartı;?26.235;8.7 
+483-71-1164;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?813;6;2439;51219;3.08.2019;0.696527778;Ecuzdan;?2.439;5.2 
+597-78-7908;C;Aydın;Normal;Erkek;Moda aksesuar;?9.022;3;13533;284193;2/18/2019;0.81875;Nakit;?13.533;6.1 
+700-81-1757;A;Izmir;Normal;Kadın;Elektronik aksesuar;?2.631;5;65775;1381275;1/18/2019;0.874305556;Kredi kartı;?65.775;8.7 
+354-39-5160;A;Izmir;Member;Kadın;Ev ve Yasam;?3.442;6;10326;216846;2/18/2019;0.652083333;Nakit;?10.326;9.7 
+241-72-9525;B;Manisa;Normal;Erkek;Spor ve gezi;?5.191;10;25955;545055;2/16/2019;0.514583333;Nakit;?25.955;8.1 
+575-30-8091;A;Izmir;Normal;Erkek;Spor ve gezi;?725;8;29;609;3/16/2019;0.809027778;Ecuzdan;?29;9.1 
+731-81-9469;C;Aydın;Member;Kadın;Spor ve gezi;?898;10;449;9429;1/23/2019;0.541666667;Kredi kartı;?449;5.3 
+280-17-4359;C;Aydın;Member;Erkek;Saglık ve Guzellik;?905;10;4525;95025;1/25/2019;0.575;Nakit;?4.525;8.0 
+338-65-2210;C;Aydın;Member;Kadın;Saglık ve Guzellik;?686;10;343;7203;2.05.2019;0.83125;Nakit;?343;9.0 
+488-25-4221;C;Aydın;Member;Kadın;Yiyecek icecek;?3.041;1;15205;319305;2/22/2019;0.441666667;Kredi kartı;?15.205;8.3 
+239-10-7476;A;Izmir;Normal;Kadın;Ev ve Yasam;?7.795;6;23385;491085;1/21/2019;0.692361111;Ecuzdan;?23.385;0.8 
+458-41-1477;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?4.626;6;13878;291438;3.08.2019;0.715972222;Kredi kartı;?13.878;9.4 
+685-64-1609;A;Izmir;Member;Kadın;Moda aksesuar;?3.014;10;1507;31647;2.10.2019;0.519444444;Ecuzdan;?1.507;9.1 
+568-90-5112;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?6.614;4;13228;277788;3/19/2019;0.531944444;Kredi kartı;?13.228;5.5 
+262-47-2794;B;Manisa;Member;Erkek;Ev ve Yasam;?7.186;8;28744;603624;3.06.2019;0.629861111;Kredi kartı;?28.744;6.1 
+238-49-0436;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?3.246;8;12984;272664;3/27/2019;0.575;Kredi kartı;?12.984;4.9 
+608-96-3517;B;Manisa;Member;Kadın;Moda aksesuar;?9.154;4;18308;384468;3/23/2019;0.805555556;Kredi kartı;?18.308;4.8 
+584-86-7256;C;Aydın;Member;Erkek;Spor ve gezi;?3.456;7;12096;254016;3.11.2019;0.671527778;Kredi kartı;?12.096;7.2 
+746-94-0204;A;Izmir;Normal;Erkek;Moda aksesuar;?8.324;9;37458;786618;1/29/2019;0.497222222;Kredi kartı;?37.458;7.3 
+214-17-6927;C;Aydın;Normal;Kadın;Yiyecek icecek;?1.648;6;4944;103824;2.07.2019;0.765972222;Ecuzdan;?4.944;9.8 
+400-89-4171;C;Aydın;Normal;Kadın;Spor ve gezi;?8.097;8;32388;680148;1/28/2019;0.545138889;Nakit;?32.388;9.2 
+782-95-9291;A;Izmir;Member;Erkek;Yiyecek icecek;?9.229;5;230725;4845225;2/20/2019;0.663194444;Kredi kartı;?230.725;0.9 
+279-74-2924;B;Manisa;Member;Erkek;Elektronik aksesuar;?7.217;1;36085;757785;1.04.2019;0.819444444;Nakit;?36.085;6.0 
+307-85-2293;B;Manisa;Normal;Erkek;Ev ve Yasam;?5.028;5;1257;26397;3.07.2019;0.581944444;Ecuzdan;?1.257;9.6 
+743-04-1105;B;Manisa;Member;Erkek;Saglık ve Guzellik;?9.722;9;43749;918729;3/30/2019;0.613194444;Ecuzdan;?43.749;0.6 
+423-57-2993;B;Manisa;Normal;Erkek;Spor ve gezi;?9.339;6;28017;588357;3/27/2019;0.804166667;Ecuzdan;?28.017;1.0 
+894-41-5205;C;Aydın;Normal;Kadın;Yiyecek icecek;?4.318;8;17272;362712;1/19/2019;0.81875;Kredi kartı;?17.272;8.2 
+275-28-0149;A;Izmir;Normal;Erkek;Spor ve gezi;?6.369;1;31845;668745;2/25/2019;0.68125;Nakit;?31.845;0.6 
+101-17-6199;A;Izmir;Normal;Erkek;Yiyecek icecek;?4.579;7;160265;3365565;3/13/2019;0.822222222;Kredi kartı;?160.265;0.7 
+423-80-0988;C;Aydın;Normal;Erkek;Spor ve gezi;?764;2;764;16044;1/30/2019;0.820833333;Ecuzdan;?764;6.4 
+548-46-9322;B;Manisa;Normal;Erkek;Yiyecek icecek;?399;10;1995;41895;2/20/2019;0.641666667;Kredi kartı;?1.995;5.8 
+505-02-0892;B;Manisa;Member;Erkek;Saglık ve Guzellik;?4.257;8;17028;357588;2/25/2019;0.591666667;Ecuzdan;?17.028;5.5 
+234-65-2137;C;Aydın;Normal;Erkek;Ev ve Yasam;?9.558;10;4779;100359;1/16/2019;0.563888889;Nakit;?4.779;4.8 
+687-47-8271;A;Izmir;Normal;Erkek;Moda aksesuar;?9.898;10;4949;103929;2.08.2019;0.680555556;Kredi kartı;?4.949;8.6 
+796-32-9050;A;Izmir;Normal;Erkek;Yiyecek icecek;?5.128;6;15384;323064;1/19/2019;0.688194444;Nakit;?15.384;6.4 
+105-31-1824;A;Izmir;Member;Erkek;Spor ve gezi;?6.952;7;24332;510972;2.01.2019;0.631944444;Kredi kartı;?24.332;8.4 
+249-42-3782;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?7.001;5;175025;3675525;1.03.2019;0.483333333;Ecuzdan;?175.025;5.4 
+316-55-4634;B;Manisa;Member;Erkek;Yiyecek icecek;?8.005;5;200125;4202625;1/26/2019;0.53125;Kredi kartı;?200.125;9.3 
+733-33-4967;C;Aydın;Normal;Erkek;Elektronik aksesuar;?2.085;8;834;17514;3.03.2019;0.803472222;Nakit;?834;6.2 
+608-27-6295;B;Manisa;Member;Erkek;Elektronik aksesuar;?5.289;6;15867;333207;1/19/2019;0.731944444;Kredi kartı;?15.867;9.7 
+414-12-7047;B;Manisa;Normal;Erkek;Yiyecek icecek;?1.979;8;7916;166236;1/18/2019;0.502777778;Ecuzdan;?7.916;8.6 
+827-26-2100;A;Izmir;Member;Erkek;Ev ve Yasam;?3.384;9;15228;319788;3/21/2019;0.68125;Ecuzdan;?15.228;8.7 
+175-54-2529;A;Izmir;Member;Erkek;Yiyecek icecek;?2.217;8;8868;186228;3.03.2019;0.709027778;Kredi kartı;?8.868;9.5 
+139-52-2867;C;Aydın;Normal;Kadın;Moda aksesuar;?2.251;7;78785;1654485;2/13/2019;0.451388889;Kredi kartı;?78.785;4.8 
+407-63-8975;A;Izmir;Normal;Erkek;Yiyecek icecek;?7.388;6;22164;465444;3/23/2019;0.802777778;Ecuzdan;?22.164;4.4 
+342-65-4817;C;Aydın;Member;Erkek;Saglık ve Guzellik;?868;3;1302;27342;1/28/2019;0.699305556;Ecuzdan;?1.302;9.8 
+130-98-8941;C;Aydın;Normal;Erkek;Moda aksesuar;?6.426;7;22491;472311;2.09.2019;0.416666667;Nakit;?22.491;5.6 
+434-83-9547;C;Aydın;Member;Erkek;Yiyecek icecek;?3.847;8;15388;323148;1/23/2019;0.49375;Nakit;?15.388;7.6 
+851-28-6367;A;Izmir;Member;Erkek;Spor ve gezi;?155;10;775;16275;3/23/2019;0.454861111;Ecuzdan;?775;0.8 
+824-88-3614;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?3.431;8;13724;288204;1/25/2019;0.625;Ecuzdan;?13.724;5.6 
+586-25-0848;A;Izmir;Normal;Kadın;Spor ve gezi;?1.234;7;4319;90699;3.04.2019;0.471527778;Kredi kartı;?4.319;6.6 
+895-66-0685;B;Manisa;Member;Erkek;Yiyecek icecek;?1.808;3;2712;56952;3.05.2019;0.823611111;Ecuzdan;?2.712;0.8 
+305-14-0245;B;Manisa;Member;Kadın;Ev ve Yasam;?9.449;8;37796;793716;3.03.2019;0.791666667;Ecuzdan;?37.796;7.4 
+732-04-5373;B;Manisa;Member;Erkek;Ev ve Yasam;?4.647;4;9294;195174;2.08.2019;0.453472222;Nakit;?9.294;0.7 
+400-60-7251;A;Izmir;Normal;Erkek;Ev ve Yasam;?7.407;1;37035;777735;2.10.2019;0.534722222;Ecuzdan;?37.035;9.8 
+593-65-1552;C;Aydın;Normal;Kadın;Ev ve Yasam;?6.981;4;13962;293202;1/28/2019;0.868055556;Kredi kartı;?13.962;5.8 
+284-34-9626;B;Manisa;Normal;Kadın;Ev ve Yasam;?7.704;3;11556;242676;2.11.2019;0.44375;Kredi kartı;?11.556;7.1 
+437-58-8131;B;Manisa;Normal;Kadın;Moda aksesuar;?7.352;2;7352;154392;1/15/2019;0.570138889;Ecuzdan;?7.352;4.6 
+286-43-6208;C;Aydın;Normal;Kadın;Yiyecek icecek;?878;9;3951;82971;3/16/2019;0.797222222;Nakit;?3.951;9.1 
+641-43-2399;B;Manisa;Normal;Erkek;Ev ve Yasam;?2.555;4;511;10731;1/26/2019;0.849305556;Ecuzdan;?511;5.6 
+831-07-6050;A;Izmir;Normal;Erkek;Elektronik aksesuar;?3.271;5;81775;1717275;3/19/2019;0.479166667;Kredi kartı;?81.775;9.8 
+556-86-3144;C;Aydın;Member;Kadın;Moda aksesuar;?7.429;1;37145;780045;1/13/2019;0.8125;Nakit;?37.145;0.5 
+848-24-9445;C;Aydın;Member;Erkek;Saglık ve Guzellik;?437;2;437;9177;3/26/2019;0.752083333;Nakit;?437;4.9 
+856-22-8149;A;Izmir;Normal;Kadın;Ev ve Yasam;?2.529;1;12645;265545;3/23/2019;0.425694444;Ecuzdan;?12.645;6.0 
+699-01-4164;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?415;4;83;1743;3.12.2019;0.831944444;Kredi kartı;?83;8.1 
+420-11-4919;C;Aydın;Member;Kadın;Yiyecek icecek;?7.139;5;178475;3747975;2/17/2019;0.83125;Kredi kartı;?178.475;5.4 
+606-80-4905;C;Aydın;Member;Kadın;Spor ve gezi;?1.915;6;5745;120645;1/29/2019;0.417361111;Kredi kartı;?5.745;6.7 
+542-41-0513;B;Manisa;Member;Kadın;Elektronik aksesuar;?5.749;4;11498;241458;3/15/2019;0.497916667;Nakit;?11.498;6.5 
+426-39-2418;C;Aydın;Normal;Erkek;Elektronik aksesuar;?6.141;7;214935;4513635;1/14/2019;0.418055556;Nakit;?214.935;9.7 
+875-46-5808;B;Manisa;Member;Erkek;Saglık ve Guzellik;?259;10;1295;27195;2.06.2019;0.61875;Ecuzdan;?1.295;8.6 
+394-43-4238;B;Manisa;Member;Erkek;Ev ve Yasam;?1.777;5;44425;932925;2/15/2019;0.529166667;Kredi kartı;?44.425;5.3 
+749-24-1565;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?2.303;9;103635;2176335;1.03.2019;0.501388889;Ecuzdan;?103.635;7.8 
+672-51-8681;C;Aydın;Member;Kadın;Elektronik aksesuar;?6.665;9;299925;6298425;1.04.2019;0.763194444;Kredi kartı;?299.925;9.6 
+263-87-5680;C;Aydın;Member;Kadın;Ev ve Yasam;?2.853;10;14265;299565;3/18/2019;0.734722222;Ecuzdan;?14.265;7.7 
+573-58-9734;B;Manisa;Normal;Kadın;Moda aksesuar;?3.037;3;45555;956655;3/28/2019;0.570138889;Ecuzdan;?45.555;5.0 
+817-69-8206;B;Manisa;Normal;Kadın;Elektronik aksesuar;?9.973;9;448785;9424485;3.02.2019;0.820833333;Kredi kartı;?448.785;6.4 
+888-02-0338;A;Izmir;Normal;Erkek;Elektronik aksesuar;?2.623;9;118035;2478735;1/25/2019;0.85;Ecuzdan;?118.035;5.8 
+677-11-0152;C;Aydın;Normal;Kadın;Yiyecek icecek;?9.326;9;41967;881307;1/16/2019;0.755555556;Nakit;?41.967;8.7 
+142-63-6033;B;Manisa;Normal;Erkek;Ev ve Yasam;?9.236;5;2309;48489;3/20/2019;0.803472222;Ecuzdan;?2.309;4.9 
+656-16-1063;B;Manisa;Normal;Erkek;Spor ve gezi;?4.642;3;6963;146223;1.04.2019;0.558333333;Kredi kartı;?6.963;4.4 
+891-58-8335;B;Manisa;Member;Kadın;Spor ve gezi;?2.961;7;103635;2176335;3.11.2019;0.661805556;Nakit;?103.635;6.4 
+802-43-8934;A;Izmir;Normal;Erkek;Ev ve Yasam;?1.828;1;914;19194;3/22/2019;0.628472222;Kredi kartı;?914;8.2 
+560-30-5617;B;Manisa;Normal;Kadın;Spor ve gezi;?2.477;5;61925;1300425;3/24/2019;0.76875;Nakit;?61.925;8.4 
+319-74-2561;A;Izmir;Member;Kadın;Elektronik aksesuar;?9.464;3;14196;298116;2/21/2019;0.704861111;Nakit;?14.196;5.4 
+549-03-9315;B;Manisa;Normal;Erkek;Moda aksesuar;?9.487;8;37948;796908;2.12.2019;0.540277778;Ecuzdan;?37.948;8.6 
+790-29-1172;B;Manisa;Normal;Kadın;Yiyecek icecek;?5.734;3;8601;180621;3.10.2019;0.790972222;Kredi kartı;?8.601;7.8 
+239-36-3640;B;Manisa;Normal;Erkek;Elektronik aksesuar;?4.535;6;13605;285705;1/31/2019;0.572222222;Ecuzdan;?13.605;6.0 
+468-01-2051;B;Manisa;Normal;Erkek;Yiyecek icecek;?6.208;7;21728;456288;3.06.2019;0.573611111;Ecuzdan;?21.728;5.3 
+389-25-3394;C;Aydın;Normal;Erkek;Elektronik aksesuar;?1.181;5;29525;620025;2/17/2019;0.754166667;Nakit;?29.525;9.3 
+279-62-1445;C;Aydın;Member;Kadın;Moda aksesuar;?1.254;1;627;13167;2/21/2019;0.526388889;Nakit;?627;8.1 
+213-72-6612;A;Izmir;Normal;Erkek;Yiyecek icecek;?4.325;2;4325;90825;3/20/2019;0.663888889;Nakit;?4.325;6.1 
+746-68-6593;C;Aydın;Member;Kadın;Spor ve gezi;?8.716;2;8716;183036;1.11.2019;0.603472222;Kredi kartı;?8.716;9.6 
+836-82-5858;B;Manisa;Member;Erkek;Saglık ve Guzellik;?6.937;9;312165;6555465;1/26/2019;0.801388889;Ecuzdan;?312.165;0.4 
+583-72-1480;C;Aydın;Member;Erkek;Elektronik aksesuar;?3.706;4;7412;155652;1/31/2019;0.683333333;Ecuzdan;?7.412;9.6 
+466-61-5506;B;Manisa;Member;Kadın;Elektronik aksesuar;?907;6;2721;57141;2/26/2019;0.452777778;Nakit;?2.721;5.2 
+721-86-6247;A;Izmir;Normal;Kadın;Ev ve Yasam;?6.342;8;25368;532728;3.11.2019;0.538194444;Ecuzdan;?25.368;7.3 
+289-65-5721;B;Manisa;Normal;Kadın;Moda aksesuar;?8.137;2;8137;170877;1/26/2019;0.811111111;Nakit;?8.137;6.4 
+545-46-3100;B;Manisa;Member;Kadın;Elektronik aksesuar;?1.059;3;15885;333585;3.12.2019;0.577777778;Kredi kartı;?15.885;8.6 
+418-02-5978;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?8.409;9;378405;7946505;2.11.2019;0.454166667;Nakit;?378.405;0.8 
+269-04-5750;B;Manisa;Member;Erkek;Moda aksesuar;?7.382;4;14764;310044;2/21/2019;0.771527778;Nakit;?14.764;6.6 
+157-13-5295;A;Izmir;Member;Erkek;Saglık ve Guzellik;?5.194;10;2597;54537;3.09.2019;0.766666667;Ecuzdan;?2.597;6.4 
+645-78-8093;A;Izmir;Normal;Kadın;Spor ve gezi;?9.314;2;9314;195594;1/20/2019;0.75625;Ecuzdan;?9.314;4.1 
+211-30-9270;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?1.741;5;43525;914025;1/28/2019;0.636111111;Kredi kartı;?43.525;4.9 
+755-12-3214;C;Aydın;Member;Kadın;Moda aksesuar;?4.422;5;11055;232155;3.05.2019;0.713194444;Kredi kartı;?11.055;8.5 
+346-84-3103;B;Manisa;Member;Kadın;Elektronik aksesuar;?1.322;5;3305;69405;3.02.2019;0.809722222;Nakit;?3.305;4.3 
+478-06-7835;A;Izmir;Normal;Erkek;Moda aksesuar;?8.969;1;44845;941745;1.11.2019;0.472222222;Ecuzdan;?44.845;4.9 
+540-11-4336;A;Izmir;Normal;Erkek;Yiyecek icecek;?2.494;9;11223;235683;1.11.2019;0.700694444;Kredi kartı;?11.223;5.5 
+448-81-5016;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?5.977;2;5977;125517;3.11.2019;0.500694444;Kredi kartı;?5.977;5.7 
+142-72-4741;C;Aydın;Member;Erkek;Moda aksesuar;?932;2;932;19572;2/28/2019;0.775694444;Kredi kartı;?932;0.6 
+217-58-1179;A;Izmir;Member;Erkek;Ev ve Yasam;?6.265;4;1253;26313;1.05.2019;0.475694444;Nakit;?1.253;4.2 
+376-02-8238;B;Manisa;Normal;Erkek;Ev ve Yasam;?9.387;8;37548;788508;2.02.2019;0.779166667;Kredi kartı;?37.548;8.2 
+530-90-9855;A;Izmir;Member;Erkek;Ev ve Yasam;?4.759;8;19036;399756;1.01.2019;0.615972222;Nakit;?19.036;5.6 
+866-05-7563;B;Manisa;Member;Kadın;Elektronik aksesuar;?814;3;1221;25641;2.09.2019;0.821527778;Nakit;?1.221;4.8 
+604-70-6476;A;Izmir;Member;Erkek;Moda aksesuar;?1.794;5;4485;94185;1/23/2019;0.586111111;Ecuzdan;?4.485;6.7 
+799-71-1548;A;Izmir;Member;Erkek;Elektronik aksesuar;?7.772;4;15544;326424;1.07.2019;0.674305556;Kredi kartı;?15.544;8.7 
+785-13-7708;B;Manisa;Normal;Erkek;Yiyecek icecek;?7.306;7;25571;536991;1/14/2019;0.795833333;Kredi kartı;?25.571;4.2 
+845-51-0542;B;Manisa;Member;Erkek;Yiyecek icecek;?4.655;9;209475;4398975;2.02.2019;0.648611111;Ecuzdan;?209.475;6.3 
+662-47-5456;C;Aydın;Member;Erkek;Moda aksesuar;?3.519;10;17595;369495;3/17/2019;0.795833333;Kredi kartı;?17.595;8.3 
+883-17-4236;C;Aydın;Normal;Kadın;Spor ve gezi;?1.439;2;1439;30219;3.02.2019;0.822222222;Kredi kartı;?1.439;7.1 
+290-68-2984;A;Izmir;Normal;Erkek;Ev ve Yasam;?2.375;4;475;9975;3/16/2019;0.473611111;Nakit;?475;5.1 
+704-11-6354;A;Izmir;Member;Erkek;Ev ve Yasam;?589;8;2356;49476;1.06.2019;0.474305556;Nakit;?2.356;8.8 
+110-48-7033;B;Manisa;Member;Erkek;Moda aksesuar;?3.262;4;6524;137004;1/29/2019;0.591666667;Nakit;?6.524;0.9 
+366-93-0948;A;Izmir;Member;Erkek;Elektronik aksesuar;?6.635;1;33175;696675;1/31/2019;0.448611111;Kredi kartı;?33.175;9.6 
+729-09-9681;A;Izmir;Member;Erkek;Ev ve Yasam;?2.591;6;7773;163233;2.05.2019;0.427777778;Ecuzdan;?7.773;8.6 
+151-16-1484;A;Izmir;Member;Erkek;Elektronik aksesuar;?3.225;4;645;13545;2/13/2019;0.526388889;Ecuzdan;?645;6.4 
+380-94-4661;C;Aydın;Member;Erkek;Elektronik aksesuar;?6.594;4;13188;276948;2.07.2019;0.545138889;Kredi kartı;?13.188;6.8 
+850-41-9669;A;Izmir;Normal;Kadın;Elektronik aksesuar;?7.506;9;33777;709317;3/19/2019;0.559027778;Ecuzdan;?33.777;6.1 
+821-07-3596;C;Aydın;Normal;Kadın;Moda aksesuar;?1.645;4;329;6909;3.07.2019;0.620138889;Ecuzdan;?329;5.5 
+655-85-5130;B;Manisa;Member;Kadın;Moda aksesuar;?383;4;766;16086;3/13/2019;0.806944444;Nakit;?766;5.6 
+447-15-7839;A;Izmir;Member;Kadın;Spor ve gezi;?2.224;10;1112;23352;2.09.2019;0.458333333;Nakit;?1.112;4.2 
+154-74-7179;B;Manisa;Normal;Erkek;Spor ve gezi;?5.445;1;27225;571725;2/26/2019;0.808333333;Ecuzdan;?27.225;7.8 
+253-12-6086;A;Izmir;Member;Kadın;Spor ve gezi;?984;7;3444;72324;3.12.2019;0.529861111;Kredi kartı;?3.444;8.6 
+808-65-0703;C;Aydın;Normal;Erkek;Ev ve Yasam;?3.547;4;7094;148974;3/14/2019;0.723611111;Kredi kartı;?7.094;6.8 
+571-94-0759;B;Manisa;Member;Kadın;Yiyecek icecek;?746;10;373;7833;1.08.2019;0.871527778;Nakit;?373;9.4 
+144-51-6085;A;Izmir;Member;Erkek;Ev ve Yasam;?7.074;4;14148;297108;1.05.2019;0.670138889;Kredi kartı;?14.148;4.4 
+731-14-2199;A;Izmir;Member;Kadın;Ev ve Yasam;?3.554;10;1777;37317;1.04.2019;0.565277778;Ecuzdan;?1.777;0.7 
+783-09-1637;B;Manisa;Normal;Kadın;Spor ve gezi;?6.743;5;168575;3540075;3.06.2019;0.759027778;Ecuzdan;?168.575;6.2 
+687-15-1097;C;Aydın;Member;Kadın;Saglık ve Guzellik;?2.112;2;2112;44352;1.03.2019;0.803472222;Nakit;?2.112;9.6 
+126-54-1082;A;Izmir;Member;Kadın;Ev ve Yasam;?2.154;9;9693;203553;1.07.2019;0.488888889;Kredi kartı;?9.693;8.7 
+633-91-1052;A;Izmir;Normal;Kadın;Ev ve Yasam;?1.203;2;1203;25263;1/27/2019;0.660416667;Nakit;?1.203;5.0 
+477-24-6490;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?9.971;6;29913;628173;2/26/2019;0.702777778;Ecuzdan;?29.913;7.8 
+566-19-5475;B;Manisa;Normal;Erkek;Moda aksesuar;?4.797;7;167895;3525795;1.07.2019;0.869444444;Nakit;?167.895;6.1 
+526-86-8552;C;Aydın;Member;Kadın;Ev ve Yasam;?2.182;10;1091;22911;1.07.2019;0.733333333;Nakit;?1.091;7.0 
+376-56-3573;C;Aydın;Normal;Kadın;Moda aksesuar;?9.542;4;19084;400764;2.02.2019;0.557638889;Ecuzdan;?19.084;6.3 
+537-72-0426;C;Aydın;Member;Erkek;Moda aksesuar;?7.099;10;35495;745395;3/20/2019;0.686111111;Nakit;?35.495;5.6 
+828-61-5674;A;Izmir;Member;Erkek;Spor ve gezi;?4.402;10;2201;46221;3/20/2019;0.83125;Kredi kartı;?2.201;9.5 
+136-08-6195;A;Izmir;Normal;Kadın;Ev ve Yasam;?6.996;8;27984;587664;2/15/2019;0.709027778;Kredi kartı;?27.984;6.3 
+523-38-0215;C;Aydın;Normal;Erkek;Ev ve Yasam;?37;1;185;3885;3.06.2019;0.561805556;Kredi kartı;?185;7.8 
+490-29-1201;A;Izmir;Normal;Kadın;Spor ve gezi;?1.534;1;767;16107;1.06.2019;0.464583333;Nakit;?767;6.4 
+667-92-0055;A;Izmir;Member;Erkek;Saglık ve Guzellik;?9.983;6;29949;628929;3.04.2019;0.626388889;Ecuzdan;?29.949;8.4 
+565-17-3836;A;Izmir;Member;Kadın;Saglık ve Guzellik;?4.767;4;9534;200214;3.12.2019;0.597916667;Nakit;?9.534;9.0 
+498-41-1961;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?6.668;5;1667;35007;2/20/2019;0.750694444;Nakit;?1.667;7.5 
+593-95-4461;C;Aydın;Member;Erkek;Ev ve Yasam;?7.486;1;3743;78603;3/24/2019;0.617361111;Nakit;?3.743;6.8 
+226-71-3580;C;Aydın;Normal;Kadın;Spor ve gezi;?2.375;9;106875;2244375;1/31/2019;0.501388889;Nakit;?106.875;9.4 
+283-79-9594;B;Manisa;Normal;Kadın;Yiyecek icecek;?4.851;7;169785;3565485;1/25/2019;0.5625;Kredi kartı;?169.785;5.1 
+430-60-3493;A;Izmir;Member;Kadın;Ev ve Yasam;?9.488;7;33208;697368;2.03.2019;0.609722222;Nakit;?33.208;4.2 
+139-20-0155;B;Manisa;Member;Erkek;Elektronik aksesuar;?403;10;2015;42315;1/24/2019;0.734027778;Kredi kartı;?2.015;0.7 
+558-80-4082;C;Aydın;Normal;Erkek;Elektronik aksesuar;?2.785;7;97475;2046975;3/14/2019;0.722222222;Ecuzdan;?97.475;0.6 
+278-97-7759;A;Izmir;Member;Kadın;Elektronik aksesuar;?6.248;1;3124;65604;2/18/2019;0.853472222;Nakit;?3.124;4.7 
+316-68-6352;A;Izmir;Member;Kadın;Yiyecek icecek;?3.636;2;3636;76356;1/21/2019;0.416666667;Nakit;?3.636;7.0 
+585-03-5943;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?1.811;10;9055;190155;3/13/2019;0.490277778;Ecuzdan;?9.055;5.8 
+211-05-0490;C;Aydın;Member;Kadın;Elektronik aksesuar;?5.192;5;1298;27258;3.03.2019;0.570833333;Nakit;?1.298;7.4 
+727-75-6477;C;Aydın;Normal;Erkek;Elektronik aksesuar;?2.884;4;5768;121128;3/29/2019;0.613888889;Nakit;?5.768;6.3 
+744-02-5987;A;Izmir;Member;Erkek;Ev ve Yasam;?7.838;6;23514;493794;1.10.2019;0.594444444;Ecuzdan;?23.514;5.7 
+307-83-9164;A;Izmir;Member;Erkek;Ev ve Yasam;?6.001;4;12002;252042;1/25/2019;0.6625;Nakit;?12.002;4.5 
+779-06-0012;C;Aydın;Member;Kadın;Ev ve Yasam;?8.861;1;44305;930405;1/19/2019;0.43125;Nakit;?44.305;7.6 
+446-47-6729;C;Aydın;Normal;Erkek;Moda aksesuar;?9.982;2;9982;209622;1.02.2019;0.75625;Kredi kartı;?9.982;6.6 
+573-10-3877;B;Manisa;Member;Erkek;Saglık ve Guzellik;?3.901;1;19505;409605;3.12.2019;0.698611111;Kredi kartı;?19.505;4.7 
+735-06-4124;C;Aydın;Normal;Erkek;Yiyecek icecek;?4.861;1;24305;510405;2/25/2019;0.646527778;Nakit;?24.305;4.4 
+439-54-7422;A;Izmir;Normal;Kadın;Elektronik aksesuar;?5.119;4;10238;214998;3/18/2019;0.71875;Kredi kartı;?10.238;4.7 
+396-90-2219;B;Manisa;Normal;Kadın;Elektronik aksesuar;?1.496;8;5984;125664;2/23/2019;0.520138889;Nakit;?5.984;8.5 
+411-77-0180;A;Izmir;Member;Erkek;Elektronik aksesuar;?722;7;2527;53067;3/26/2019;0.843055556;Ecuzdan;?2.527;4.3 
+286-01-5402;A;Izmir;Normal;Kadın;Spor ve gezi;?4.023;7;140805;2956905;3/30/2019;0.556944444;Nakit;?140.805;9.5 
+803-17-8013;A;Izmir;Member;Kadın;Ev ve Yasam;?8.879;8;35516;745836;2/17/2019;0.714583333;Nakit;?35.516;4.1 
+512-98-1403;A;Izmir;Member;Kadın;Elektronik aksesuar;?2.648;3;3972;83412;3/21/2019;0.444444444;Ecuzdan;?3.972;4.7 
+848-42-2560;A;Izmir;Normal;Kadın;Moda aksesuar;?8.191;2;8191;172011;3.05.2019;0.738194444;Nakit;?8.191;7.7 
+532-59-7201;B;Manisa;Member;Erkek;Spor ve gezi;?7.993;6;23979;503559;1/31/2019;0.586111111;Nakit;?23.979;5.4 
+181-94-6432;C;Aydın;Member;Erkek;Moda aksesuar;?6.933;2;6933;145593;2.05.2019;0.795138889;Ecuzdan;?6.933;9.6 
+870-76-1733;A;Izmir;Member;Kadın;Yiyecek icecek;?1.423;5;35575;747075;2.01.2019;0.422222222;Kredi kartı;?35.575;4.4 
+423-64-4619;A;Izmir;Member;Kadın;Saglık ve Guzellik;?1.555;9;69975;1469475;3.07.2019;0.55;Nakit;?69.975;0.5 
+227-07-4446;C;Aydın;Member;Kadın;Elektronik aksesuar;?7.813;10;39065;820365;2.10.2019;0.86875;Nakit;?39.065;4.4 
+174-36-3675;C;Aydın;Member;Erkek;Yiyecek icecek;?9.937;2;9937;208677;2/14/2019;0.728472222;Nakit;?9.937;5.1 
+428-83-5800;C;Aydın;Member;Kadın;Yiyecek icecek;?2.108;3;3162;66402;2.09.2019;0.434027778;Nakit;?3.162;7.2 
+603-07-0961;C;Aydın;Member;Erkek;Elektronik aksesuar;?7.479;5;186975;3926475;1.10.2019;0.481944444;Nakit;?186.975;4.9 
+704-20-4138;C;Aydın;Member;Kadın;Saglık ve Guzellik;?2.967;7;103845;2180745;3.11.2019;0.790277778;Kredi kartı;?103.845;8.0 
+787-15-1757;C;Aydın;Member;Erkek;Saglık ve Guzellik;?4.407;4;8814;185094;2/18/2019;0.686111111;Ecuzdan;?8.814;8.3 
+649-11-3678;C;Aydın;Normal;Kadın;Yiyecek icecek;?2.293;9;103185;2166885;2/26/2019;0.851388889;Nakit;?103.185;5.4 
+622-20-1945;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?3.942;1;1971;41391;1/18/2019;0.630555556;Nakit;?1.971;8.3 
+372-94-8041;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?1.526;6;4578;96138;2/15/2019;0.752083333;Ecuzdan;?4.578;9.7 
+563-91-7120;A;Izmir;Normal;Kadın;Moda aksesuar;?6.177;5;154425;3242925;3.08.2019;0.55625;Nakit;?154.425;6.6 
+746-54-5508;A;Izmir;Normal;Erkek;Ev ve Yasam;?2.152;6;6456;135576;1/17/2019;0.533333333;Kredi kartı;?6.456;9.3 
+276-54-0879;B;Manisa;Normal;Erkek;Spor ve gezi;?9.774;4;19548;410508;3.12.2019;0.828472222;Ecuzdan;?19.548;6.3 
+815-11-1168;A;Izmir;Member;Erkek;Yiyecek icecek;?9.978;5;24945;523845;3.09.2019;0.797916667;Nakit;?24.945;5.3 
+719-76-3868;C;Aydın;Member;Erkek;Yiyecek icecek;?9.426;4;18852;395892;3.12.2019;0.6875;Nakit;?18.852;8.5 
+730-61-8757;B;Manisa;Member;Erkek;Saglık ve Guzellik;?5.113;4;10226;214746;1/25/2019;0.424305556;Kredi kartı;?10.226;0.4 
+340-66-0321;A;Izmir;Member;Erkek;Elektronik aksesuar;?3.636;4;7272;152712;3/25/2019;0.546527778;Nakit;?7.272;7.5 
+868-81-1752;B;Manisa;Normal;Erkek;Ev ve Yasam;?2.202;9;9909;208089;2.07.2019;0.783333333;Nakit;?9.909;6.7 
+634-97-8956;A;Izmir;Normal;Erkek;Yiyecek icecek;?329;3;4935;103635;2/17/2019;0.727083333;Kredi kartı;?4.935;9.0 
+566-71-1091;A;Izmir;Normal;Erkek;Moda aksesuar;?7.702;5;19255;404355;2.03.2019;0.665972222;Nakit;?19.255;5.4 
+442-48-3607;A;Izmir;Member;Erkek;Yiyecek icecek;?2.348;2;2348;49308;3/14/2019;0.472916667;Kredi kartı;?2.348;7.8 
+835-16-0096;C;Aydın;Member;Erkek;Spor ve gezi;?147;5;3675;77175;3/24/2019;0.575;Ecuzdan;?3.675;8.4 
+527-09-6272;A;Izmir;Member;Kadın;Elektronik aksesuar;?2.845;5;71125;1493625;3/21/2019;0.428472222;Kredi kartı;?71.125;9.0 
+898-04-2717;A;Izmir;Normal;Erkek;Moda aksesuar;?764;9;3438;72198;3/19/2019;0.659027778;Ecuzdan;?3.438;7.4 
+692-27-8933;B;Manisa;Normal;Kadın;Spor ve gezi;?5.795;6;17385;365085;2/24/2019;0.543055556;Nakit;?17.385;5.1 
+633-09-3463;C;Aydın;Normal;Kadın;Elektronik aksesuar;?4.765;3;71475;1500975;3/28/2019;0.540277778;Kredi kartı;?71.475;9.4 
+374-17-3652;B;Manisa;Member;Kadın;Yiyecek icecek;?4.282;9;19269;404649;2.05.2019;0.643055556;Kredi kartı;?19.269;8.8 
+378-07-7001;B;Manisa;Member;Erkek;Elektronik aksesuar;?4.809;3;72135;1514835;2.10.2019;0.765972222;Kredi kartı;?72.135;7.7 
+433-75-6987;B;Manisa;Member;Kadın;Saglık ve Guzellik;?5.597;7;195895;4113795;3.05.2019;0.795833333;Ecuzdan;?195.895;8.8 
+873-95-4984;B;Manisa;Member;Kadın;Saglık ve Guzellik;?769;7;26915;565215;2/15/2019;0.847916667;Nakit;?26.915;7.6 
+416-13-5917;C;Aydın;Normal;Kadın;Yiyecek icecek;?9.703;5;242575;5094075;1/30/2019;0.683333333;Ecuzdan;?242.575;9.2 
+150-89-8043;A;Izmir;Normal;Erkek;Spor ve gezi;?4.465;3;66975;1406475;2/14/2019;0.627777778;Nakit;?66.975;6.1 
+135-84-8019;A;Izmir;Normal;Kadın;Moda aksesuar;?7.793;9;350685;7364385;2/27/2019;0.673611111;Ecuzdan;?350.685;7.5 
+441-94-7118;A;Izmir;Member;Erkek;Elektronik aksesuar;?7.195;1;35975;755475;2.04.2019;0.509722222;Nakit;?35.975;7.2 
+725-96-3778;C;Aydın;Member;Kadın;Ev ve Yasam;?8.925;8;357;7497;1/20/2019;0.425694444;Nakit;?357;4.7 
+531-80-1784;A;Izmir;Normal;Erkek;Elektronik aksesuar;?2.602;7;9107;191247;3/28/2019;0.734722222;Nakit;?9.107;5.0 
+400-45-1220;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?135;10;675;14175;2/27/2019;0.4625;Kredi kartı;?675;4.8 
+860-79-0874;C;Aydın;Member;Kadın;Moda aksesuar;?993;10;4965;104265;2/15/2019;0.620138889;Kredi kartı;?4.965;6.5 
+834-61-8124;A;Izmir;Normal;Erkek;Elektronik aksesuar;?5.169;7;180915;3799215;1/26/2019;0.765277778;Nakit;?180.915;5.4 
+115-99-4379;B;Manisa;Member;Kadın;Moda aksesuar;?5.473;7;191555;4022655;3/14/2019;0.793055556;Kredi kartı;?191.555;8.4 
+565-67-6697;B;Manisa;Member;Erkek;Ev ve Yasam;?27;9;1215;25515;3.02.2019;0.594444444;Nakit;?1.215;4.8 
+320-49-6392;C;Aydın;Normal;Kadın;Elektronik aksesuar;?3.024;1;1512;31752;3.04.2019;0.655555556;Nakit;?1.512;8.3 
+889-04-9723;B;Manisa;Member;Kadın;Yiyecek icecek;?8.914;4;17828;374388;1.07.2019;0.513888889;Kredi kartı;?17.828;7.7 
+632-90-0281;C;Aydın;Normal;Kadın;Moda aksesuar;?3.755;10;18775;394275;3.08.2019;0.834027778;Kredi kartı;?18.775;9.2 
+554-42-2417;C;Aydın;Normal;Kadın;Spor ve gezi;?9.544;10;4772;100212;1.09.2019;0.572916667;Nakit;?4.772;5.1 
+453-63-6187;B;Manisa;Normal;Erkek;Elektronik aksesuar;?275;3;4125;86625;3.01.2019;0.652777778;Ecuzdan;?4.125;6.4 
+578-80-7669;B;Manisa;Normal;Erkek;Spor ve gezi;?7.497;1;37485;787185;3/16/2019;0.706944444;Nakit;?37.485;5.5 
+612-36-5536;A;Izmir;Member;Erkek;Yiyecek icecek;?8.096;8;32384;680064;2/17/2019;0.466666667;Kredi kartı;?32.384;7.3 
+605-72-4132;C;Aydın;Normal;Kadın;Yiyecek icecek;?9.447;8;37788;793548;2/27/2019;0.633333333;Nakit;?37.788;9.0 
+471-41-2823;C;Aydın;Normal;Erkek;Yiyecek icecek;?9.979;2;9979;209559;3.07.2019;0.859027778;Ecuzdan;?9.979;0.8 
+462-67-9126;A;Izmir;Normal;Erkek;Ev ve Yasam;?7.322;6;21966;461286;1/21/2019;0.738888889;Nakit;?21.966;7.1 
+272-27-9238;C;Aydın;Normal;Kadın;Yiyecek icecek;?4.124;4;8248;173208;2/19/2019;0.682638889;Nakit;?8.248;7.0 
+834-25-9262;C;Aydın;Normal;Kadın;Moda aksesuar;?8.168;4;16336;343056;1.06.2019;0.508333333;Nakit;?16.336;9.0 
+122-61-9553;C;Aydın;Normal;Kadın;Elektronik aksesuar;?5.132;9;23094;484974;3/14/2019;0.814583333;Nakit;?23.094;5.5 
+468-88-0009;A;Izmir;Member;Erkek;Ev ve Yasam;?6.594;4;13188;276948;3/24/2019;0.436805556;Nakit;?13.188;0.6 
+613-59-9758;C;Aydın;Normal;Kadın;Spor ve gezi;?1.436;10;718;15078;1/27/2019;0.602777778;Nakit;?718;5.3 
+254-31-0042;A;Izmir;Member;Erkek;Elektronik aksesuar;?215;9;9675;203175;3.06.2019;0.531944444;Kredi kartı;?9.675;7.7 
+201-86-2184;B;Manisa;Member;Kadın;Elektronik aksesuar;?2.626;7;9191;193011;2.02.2019;0.819444444;Nakit;?9.191;9.8 
+261-12-8671;B;Manisa;Normal;Kadın;Moda aksesuar;?6.096;2;6096;128016;1/25/2019;0.81875;Kredi kartı;?6.096;4.9 
+730-70-9830;C;Aydın;Normal;Kadın;Ev ve Yasam;?7.011;6;21033;441693;3/14/2019;0.745833333;Ecuzdan;?21.033;5.1 
+382-25-8917;C;Aydın;Normal;Erkek;Moda aksesuar;?4.208;6;12624;265104;1/29/2019;0.517361111;Nakit;?12.624;8.8 
+422-29-8786;A;Izmir;Normal;Kadın;Ev ve Yasam;?6.709;5;167725;3522225;1.03.2019;0.699305556;Kredi kartı;?167.725;9.0 
+667-23-5919;A;Izmir;Member;Kadın;Moda aksesuar;?967;5;24175;507675;1/14/2019;0.536111111;Ecuzdan;?24.175;0.7 
+843-01-4703;B;Manisa;Member;Kadın;Ev ve Yasam;?3.538;9;15921;334341;1.05.2019;0.826388889;Kredi kartı;?15.921;9.5 
+743-88-1662;C;Aydın;Normal;Erkek;Spor ve gezi;?9.549;7;334215;7018515;2/22/2019;0.761805556;Ecuzdan;?334.215;8.6 
+595-86-2894;C;Aydın;Member;Erkek;Moda aksesuar;?9.698;4;19396;407316;2.06.2019;0.722222222;Ecuzdan;?19.396;9.3 
+182-69-8360;B;Manisa;Normal;Kadın;Elektronik aksesuar;?2.365;4;473;9933;1/30/2019;0.563888889;Kredi kartı;?473;0.4 
+289-15-7034;A;Izmir;Member;Erkek;Spor ve gezi;?8.233;4;16466;345786;1.11.2019;0.442361111;Kredi kartı;?16.466;7.4 
+462-78-5240;C;Aydın;Normal;Kadın;Elektronik aksesuar;?2.661;2;2661;55881;3/19/2019;0.607638889;Nakit;?2.661;4.2 
+868-52-7573;B;Manisa;Normal;Kadın;Yiyecek icecek;?9.969;5;249225;5233725;1/14/2019;0.50625;Nakit;?249.225;9.8 
+153-58-4872;C;Aydın;Member;Kadın;Yiyecek icecek;?7.489;4;14978;314538;3.01.2019;0.647222222;Ecuzdan;?14.978;4.2 
+662-72-2873;A;Izmir;Normal;Kadın;Yiyecek icecek;?4.094;5;10235;214935;1.06.2019;0.581944444;Ecuzdan;?10.235;9.8 
+525-88-7307;B;Manisa;Member;Erkek;Spor ve gezi;?7.582;1;3791;79611;1/31/2019;0.554861111;Nakit;?3.791;5.7 
+689-16-9784;C;Aydın;Normal;Erkek;Yiyecek icecek;?4.677;6;14031;294651;3.11.2019;0.567361111;Nakit;?14.031;0.6 
+725-56-0833;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?3.232;10;1616;33936;2/20/2019;0.700694444;Kredi kartı;?1.616;1.0 
+394-41-0748;C;Aydın;Member;Kadın;Moda aksesuar;?5.407;9;243315;5109615;1/27/2019;0.621527778;Ecuzdan;?243.315;9.4 
+596-42-3999;B;Manisa;Normal;Erkek;Yiyecek icecek;?1.822;7;6377;133917;3.10.2019;0.586111111;Kredi kartı;?6.377;6.5 
+541-89-9860;C;Aydın;Member;Kadın;Moda aksesuar;?8.048;3;12072;253512;2/15/2019;0.521527778;Nakit;?12.072;8.0 
+173-82-9529;B;Manisa;Normal;Kadın;Moda aksesuar;?3.795;10;18975;398475;1/26/2019;0.61875;Nakit;?18.975;9.6 
+563-36-9814;A;Izmir;Member;Erkek;Elektronik aksesuar;?7.682;1;3841;80661;2/13/2019;0.76875;Ecuzdan;?3.841;7.1 
+308-47-4913;A;Izmir;Member;Kadın;Spor ve gezi;?5.226;10;2613;54873;3.09.2019;0.53125;Kredi kartı;?2.613;6.1 
+885-17-6250;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?7.974;1;3987;83727;3.06.2019;0.441666667;Ecuzdan;?3.987;7.2 
+726-27-2396;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?775;5;19375;406875;1/24/2019;0.858333333;Ecuzdan;?19.375;4.3 
+316-01-3952;A;Izmir;Normal;Kadın;Yiyecek icecek;?5.427;5;135675;2849175;3/13/2019;0.594444444;Ecuzdan;?135.675;4.6 
+760-54-1821;B;Manisa;Normal;Erkek;Ev ve Yasam;?1.359;9;61155;1284255;3/15/2019;0.434722222;Nakit;?61.155;5.7 
+793-10-3222;B;Manisa;Member;Kadın;Saglık ve Guzellik;?4.106;6;12318;258678;3.05.2019;0.5625;Kredi kartı;?12.318;8.2 
+346-12-3257;B;Manisa;Member;Erkek;Elektronik aksesuar;?1.924;9;8658;181818;3.04.2019;0.686111111;Nakit;?8.658;0.8 
+110-05-6330;C;Aydın;Normal;Kadın;Yiyecek icecek;?3.943;6;11829;248409;3/25/2019;0.845833333;Kredi kartı;?11.829;9.3 
+651-61-0874;C;Aydın;Normal;Erkek;Ev ve Yasam;?4.622;4;9244;194124;3.12.2019;0.836111111;Kredi kartı;?9.244;6.1 
+236-86-3015;C;Aydın;Member;Erkek;Ev ve Yasam;?1.398;1;699;14679;2.04.2019;0.568055556;Ecuzdan;?699;9.7 
+831-64-0259;B;Manisa;Normal;Kadın;Moda aksesuar;?3.975;5;99375;2086875;2/22/2019;0.446527778;Ecuzdan;?99.375;9.5 
+587-03-7455;C;Aydın;Member;Kadın;Moda aksesuar;?9.779;7;342265;7187565;2/16/2019;0.729166667;Ecuzdan;?342.265;4.9 
+882-40-4577;A;Izmir;Member;Erkek;Spor ve gezi;?6.726;4;13452;282492;1/19/2019;0.644444444;Kredi kartı;?13.452;0.8 
+732-67-5346;A;Izmir;Normal;Erkek;Yiyecek icecek;?1.379;5;34475;723975;1.11.2019;0.796527778;Kredi kartı;?34.475;7.7 
+725-32-9708;B;Manisa;Member;Kadın;Moda aksesuar;?6.871;4;13742;288582;1.04.2019;0.792361111;Nakit;?13.742;4.1 
+256-08-8343;A;Izmir;Normal;Kadın;Ev ve Yasam;?5.653;4;11306;237426;3.04.2019;0.825;Ecuzdan;?11.306;5.4 
+372-26-1506;C;Aydın;Normal;Kadın;Moda aksesuar;?2.382;5;5955;125055;1/28/2019;0.808333333;Ecuzdan;?5.955;5.3 
+244-08-0162;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?3.421;10;17105;359205;1.02.2019;0.541666667;Nakit;?17.105;5.0 
+569-71-4390;B;Manisa;Normal;Erkek;Spor ve gezi;?2.187;2;2187;45927;1/25/2019;0.603472222;Ecuzdan;?2.187;6.8 
+132-23-6451;A;Izmir;Member;Erkek;Saglık ve Guzellik;?2.097;5;52425;1100925;1.04.2019;0.55625;Nakit;?52.425;7.7 
+696-90-2548;A;Izmir;Normal;Erkek;Spor ve gezi;?2.584;3;3876;81396;3.10.2019;0.788194444;Ecuzdan;?3.876;6.5 
+472-15-9636;A;Izmir;Normal;Erkek;Ev ve Yasam;?5.093;8;20372;427812;3/22/2019;0.816666667;Ecuzdan;?20.372;9.1 
+268-03-6164;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?9.611;1;48055;1009155;1/25/2019;0.686111111;Ecuzdan;?48.055;7.7 
+750-57-9686;C;Aydın;Normal;Kadın;Ev ve Yasam;?4.538;4;9076;190596;1.08.2019;0.575;Kredi kartı;?9.076;8.6 
+186-09-3669;C;Aydın;Member;Kadın;Saglık ve Guzellik;?8.151;1;40755;855855;1/22/2019;0.45625;Ecuzdan;?40.755;9.1 
+848-07-1692;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?5.722;2;5722;120162;1.12.2019;0.717361111;Ecuzdan;?5.722;8.2 
+745-71-3520;A;Izmir;Member;Kadın;Elektronik aksesuar;?2.522;7;8827;185367;2.04.2019;0.432638889;Nakit;?8.827;8.1 
+266-76-6436;C;Aydın;Member;Kadın;Yiyecek icecek;?386;3;579;12159;3/28/2019;0.58125;Ecuzdan;?579;7.4 
+740-22-2500;C;Aydın;Normal;Kadın;Elektronik aksesuar;?8.405;3;126075;2647575;1/23/2019;0.561805556;Nakit;?126.075;9.7 
+271-88-8734;C;Aydın;Member;Kadın;Moda aksesuar;?9.721;10;48605;1020705;2.08.2019;0.541666667;Kredi kartı;?48.605;8.6 
+301-81-8610;B;Manisa;Member;Erkek;Moda aksesuar;?2.542;8;10168;213528;3/19/2019;0.820833333;Kredi kartı;?10.168;6.6 
+489-64-4354;C;Aydın;Normal;Erkek;Moda aksesuar;?1.628;1;814;17094;3.09.2019;0.65;Nakit;?814;0.5 
+198-84-7132;B;Manisa;Member;Erkek;Moda aksesuar;?4.061;9;182745;3837645;1.02.2019;0.569444444;Nakit;?182.745;0.7 
+269-10-8440;A;Izmir;Member;Erkek;Saglık ve Guzellik;?5.317;7;186095;3907995;1/21/2019;0.750694444;Nakit;?186.095;8.8 
+650-98-6268;B;Manisa;Member;Kadın;Yiyecek icecek;?2.087;3;31305;657405;3/20/2019;0.578472222;Kredi kartı;?31.305;0.8 
+741-73-3559;B;Manisa;Normal;Erkek;Spor ve gezi;?6.727;5;168175;3531675;2/27/2019;0.727083333;Nakit;?168.175;6.8 
+325-77-6186;A;Izmir;Member;Kadın;Ev ve Yasam;?9.065;10;45325;951825;3.08.2019;0.453472222;Ecuzdan;?45.325;7.2 
+286-75-7818;B;Manisa;Normal;Erkek;Moda aksesuar;?6.908;2;6908;145068;1/31/2019;0.825;Kredi kartı;?6.908;6.8 
+574-57-9721;C;Aydın;Normal;Erkek;Yiyecek icecek;?4.327;2;4327;90867;3.08.2019;0.703472222;Ecuzdan;?4.327;5.6 
+459-50-7686;A;Izmir;Normal;Kadın;Elektronik aksesuar;?2.346;6;7038;147798;1/13/2019;0.801388889;Ecuzdan;?7.038;6.3 
+616-87-0016;B;Manisa;Normal;Erkek;Moda aksesuar;?9.554;7;33439;702219;3.09.2019;0.608333333;Kredi kartı;?33.439;9.5 
+837-55-7229;B;Manisa;Normal;Kadın;Moda aksesuar;?4.744;1;2372;49812;2/22/2019;0.763194444;Kredi kartı;?2.372;6.7 
+751-69-0068;C;Aydın;Normal;Erkek;Spor ve gezi;?9.924;9;44658;937818;3/19/2019;0.797916667;Ecuzdan;?44.658;0.9 
+257-73-1380;C;Aydın;Member;Erkek;Spor ve gezi;?8.293;4;16586;348306;1/20/2019;0.702083333;Ecuzdan;?16.586;9.5 
+345-08-4992;A;Izmir;Normal;Erkek;Ev ve Yasam;?3.399;6;10197;214137;3.08.2019;0.650694444;Kredi kartı;?10.197;7.6 
+549-96-4200;C;Aydın;Member;Erkek;Yiyecek icecek;?1.704;4;3408;71568;3.08.2019;0.84375;Ecuzdan;?3.408;0.7 
+810-60-6344;C;Aydın;Normal;Kadın;Elektronik aksesuar;?4.086;8;16344;343224;2.07.2019;0.609722222;Kredi kartı;?16.344;6.4 
+450-28-2866;C;Aydın;Member;Erkek;Yiyecek icecek;?1.744;5;436;9156;1/15/2019;0.809027778;Nakit;?436;8.0 
+394-30-3170;B;Manisa;Member;Kadın;Spor ve gezi;?8.843;8;35372;742812;3/22/2019;0.815972222;Kredi kartı;?35.372;4.3 
+138-17-5109;A;Izmir;Member;Kadın;Ev ve Yasam;?8.921;9;401445;8430345;1/15/2019;0.654166667;Kredi kartı;?401.445;6.4 
+192-98-7397;C;Aydın;Normal;Erkek;Moda aksesuar;?1.278;1;639;13419;1.08.2019;0.590972222;Ecuzdan;?639;9.4 
+301-11-9629;A;Izmir;Normal;Kadın;Spor ve gezi;?191;7;6685;140385;1/15/2019;0.446527778;Nakit;?6.685;9.6 
+390-80-5128;B;Manisa;Member;Kadın;Saglık ve Guzellik;?1.915;1;9575;201075;1/28/2019;0.748611111;Kredi kartı;?9.575;9.4 
+235-46-8343;C;Aydın;Member;Erkek;Yiyecek icecek;?2.766;10;1383;29043;2/14/2019;0.476388889;Kredi kartı;?1.383;8.8 
+453-12-7053;C;Aydın;Normal;Erkek;Moda aksesuar;?4.574;3;6861;144081;3.10.2019;0.734722222;Kredi kartı;?6.861;6.4 
+296-11-7041;B;Manisa;Member;Kadın;Saglık ve Guzellik;?2.707;1;13535;284235;1.12.2019;0.838194444;Kredi kartı;?13.535;5.2 
+449-27-2918;B;Manisa;Member;Kadın;Spor ve gezi;?3.912;1;1956;41076;3/26/2019;0.459722222;Kredi kartı;?1.956;9.5 
+891-01-7034;B;Manisa;Normal;Kadın;Elektronik aksesuar;?7.471;6;22413;470673;1.01.2019;0.796527778;Nakit;?22.413;6.6 
+744-09-5786;B;Manisa;Normal;Erkek;Elektronik aksesuar;?2.201;6;6603;138663;1.02.2019;0.784722222;Nakit;?6.603;7.5 
+727-17-0390;A;Izmir;Normal;Kadın;Yiyecek icecek;?6.361;5;159025;3339525;3/16/2019;0.529861111;Ecuzdan;?159.025;4.8 
+568-88-3448;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?25;1;125;2625;3.03.2019;0.63125;Ecuzdan;?125;5.4 
+187-83-5490;A;Izmir;Member;Erkek;Elektronik aksesuar;?2.077;4;4154;87234;1/31/2019;0.574305556;Nakit;?4.154;4.7 
+767-54-1907;B;Manisa;Member;Kadın;Moda aksesuar;?2.956;5;739;15519;2/13/2019;0.707638889;Nakit;?739;6.8 
+710-46-4433;B;Manisa;Member;Kadın;Yiyecek icecek;?774;9;3483;73143;2/15/2019;0.59375;Kredi kartı;?3.483;4.5 
+533-33-5337;B;Manisa;Normal;Erkek;Elektronik aksesuar;?7.939;10;39695;833595;2.07.2019;0.85;Nakit;?39.695;6.1 
+325-90-8763;C;Aydın;Member;Kadın;Elektronik aksesuar;?4.657;10;23285;488985;1/27/2019;0.581944444;Nakit;?23.285;7.5 
+729-46-7422;C;Aydın;Normal;Erkek;Yiyecek icecek;?3.589;1;17945;376845;2/23/2019;0.702777778;Kredi kartı;?17.945;7.8 
+639-76-1242;C;Aydın;Normal;Erkek;Yiyecek icecek;?4.052;5;1013;21273;2.03.2019;0.638194444;Nakit;?1.013;4.5 
+234-03-4040;B;Manisa;Member;Kadın;Yiyecek icecek;?7.305;10;36525;767025;3.03.2019;0.517361111;Kredi kartı;?36.525;8.6 
+326-71-2155;C;Aydın;Normal;Kadın;Spor ve gezi;?7.395;4;1479;31059;2.03.2019;0.418055556;Nakit;?1.479;6.0 
+320-32-8842;C;Aydın;Member;Kadın;Yiyecek icecek;?2.262;1;1131;23751;3/17/2019;0.790277778;Nakit;?1.131;6.3 
+470-32-9057;A;Izmir;Member;Erkek;Yiyecek icecek;?5.134;5;12835;269535;3/28/2019;0.646527778;Kredi kartı;?12.835;9.0 
+878-30-2331;C;Aydın;Member;Kadın;Spor ve gezi;?5.455;10;27275;572775;3.02.2019;0.473611111;Kredi kartı;?27.275;7.0 
+440-59-5691;C;Aydın;Member;Kadın;Saglık ve Guzellik;?3.715;7;130025;2730525;2.08.2019;0.55;Kredi kartı;?130.025;7.6 
+554-53-3790;B;Manisa;Normal;Erkek;Spor ve gezi;?3.702;6;11106;233226;3/22/2019;0.772916667;Nakit;?11.106;4.5 
+746-19-0921;C;Aydın;Normal;Erkek;Yiyecek icecek;?2.158;1;1079;22659;2.09.2019;0.418055556;Ecuzdan;?1.079;7.1 
+233-34-0817;C;Aydın;Member;Kadın;Elektronik aksesuar;?9.884;1;4942;103782;2/15/2019;0.472916667;Nakit;?4.942;8.3 
+767-05-1286;C;Aydın;Member;Kadın;Ev ve Yasam;?8.377;6;25131;527751;1/23/2019;0.506944444;Ecuzdan;?25.131;5.3 
+340-21-9136;A;Izmir;Member;Kadın;Spor ve gezi;?4.005;4;801;16821;1/25/2019;0.486111111;Nakit;?801;9.6 
+405-31-3305;A;Izmir;Member;Erkek;Moda aksesuar;?4.313;10;21565;452865;2.02.2019;0.771527778;Kredi kartı;?21.565;5.4 
+731-59-7531;B;Manisa;Member;Erkek;Saglık ve Guzellik;?7.257;8;29028;609588;3/30/2019;0.748611111;Nakit;?29.028;4.6 
+676-39-6028;A;Izmir;Member;Kadın;Elektronik aksesuar;?6.444;5;1611;33831;3/30/2019;0.711111111;Nakit;?1.611;6.5 
+502-05-1910;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?6.518;3;9777;205317;2/25/2019;0.857638889;Kredi kartı;?9.777;6.2 
+485-30-8700;A;Izmir;Normal;Kadın;Spor ve gezi;?3.326;5;8315;174615;3/18/2019;0.673611111;Kredi kartı;?8.315;4.2 
+598-47-9715;C;Aydın;Normal;Erkek;Elektronik aksesuar;?8.407;4;16814;353094;3.07.2019;0.704166667;Ecuzdan;?16.814;4.4 
+701-69-8742;B;Manisa;Normal;Erkek;Spor ve gezi;?3.437;10;17185;360885;3/16/2019;0.424305556;Ecuzdan;?17.185;6.6 
+575-67-1508;A;Izmir;Normal;Erkek;Elektronik aksesuar;?386;1;193;4053;1/29/2019;0.476388889;Ecuzdan;?193;6.6 
+541-08-3113;C;Aydın;Normal;Erkek;Yiyecek icecek;?6.597;8;26388;554148;2.02.2019;0.853472222;Nakit;?26.388;8.3 
+246-11-3901;C;Aydın;Normal;Kadın;Elektronik aksesuar;?328;10;164;3444;2/15/2019;0.508333333;Nakit;?164;6.1 
+674-15-9296;A;Izmir;Normal;Erkek;Spor ve gezi;?3.714;5;9285;194985;1.08.2019;0.545138889;Ecuzdan;?9.285;0.5 
+305-18-3552;B;Manisa;Member;Erkek;Ev ve Yasam;?6.038;10;3019;63399;2.12.2019;0.679861111;Nakit;?3.019;0.6 
+493-65-6248;C;Aydın;Member;Kadın;Spor ve gezi;?3.698;10;1849;38829;1.01.2019;0.825;Kredi kartı;?1.849;0.7 
+438-01-4015;B;Manisa;Member;Kadın;Spor ve gezi;?4.949;4;9898;207858;3/21/2019;0.642361111;Ecuzdan;?9.898;6.5 
+709-58-4068;B;Manisa;Normal;Kadın;Moda aksesuar;?4.109;10;20545;431445;2/28/2019;0.6125;Nakit;?20.545;7.2 
+795-49-7276;A;Izmir;Normal;Erkek;Moda aksesuar;?3.715;4;743;15603;3/23/2019;0.790972222;Ecuzdan;?743;8.2 
+556-72-8512;C;Aydın;Normal;Erkek;Ev ve Yasam;?2.296;1;1148;24108;1/30/2019;0.865972222;Nakit;?1.148;4.3 
+627-95-3243;B;Manisa;Member;Kadın;Ev ve Yasam;?7.768;9;34956;734076;2.04.2019;0.55625;Ecuzdan;?34.956;9.7 
+686-41-0932;B;Manisa;Normal;Kadın;Moda aksesuar;?347;2;347;7287;3/13/2019;0.825;Ecuzdan;?347;8.1 
+510-09-5628;A;Izmir;Member;Kadın;Moda aksesuar;?1.966;10;983;20643;3/15/2019;0.763888889;Kredi kartı;?983;7.1 
+608-04-3797;B;Manisa;Member;Kadın;Saglık ve Guzellik;?2.532;8;10128;212688;3.05.2019;0.85;Ecuzdan;?10.128;8.6 
+148-82-2527;C;Aydın;Member;Kadın;Ev ve Yasam;?1.212;10;606;12726;3.05.2019;0.572222222;Kredi kartı;?606;8.3 
+437-53-3084;B;Manisa;Normal;Erkek;Moda aksesuar;?9.989;2;9989;209769;2/26/2019;0.491666667;Ecuzdan;?9.989;7.0 
+632-32-4574;B;Manisa;Normal;Erkek;Spor ve gezi;?7.592;8;30368;637728;3/20/2019;0.593055556;Nakit;?30.368;5.4 
+556-97-7101;C;Aydın;Normal;Kadın;Elektronik aksesuar;?6.322;2;6322;132762;1.01.2019;0.660416667;Nakit;?6.322;8.4 
+862-59-8517;C;Aydın;Normal;Kadın;Yiyecek icecek;?9.024;6;27072;568512;1/27/2019;0.470138889;Nakit;?27.072;6.1 
+401-18-8016;B;Manisa;Member;Kadın;Spor ve gezi;?9.813;1;49065;1030365;1/21/2019;0.733333333;Nakit;?49.065;8.8 
+420-18-8989;A;Izmir;Member;Kadın;Spor ve gezi;?5.152;8;20608;432768;2.02.2019;0.657638889;Nakit;?20.608;9.5 
+277-63-2961;B;Manisa;Member;Erkek;Spor ve gezi;?7.397;1;36985;776685;2.03.2019;0.661805556;Kredi kartı;?36.985;5.3 
+573-98-8548;C;Aydın;Member;Kadın;Moda aksesuar;?319;1;1595;33495;1.05.2019;0.527777778;Ecuzdan;?1.595;9.0 
+620-02-2046;C;Aydın;Normal;Erkek;Ev ve Yasam;?694;2;694;14574;1/27/2019;0.825;Ecuzdan;?694;0.9 
+282-35-2475;B;Manisa;Normal;Kadın;Spor ve gezi;?9.331;2;9331;195951;3/25/2019;0.745138889;Nakit;?9.331;6.2 
+511-54-3087;B;Manisa;Normal;Erkek;Spor ve gezi;?8.845;1;44225;928725;2/25/2019;0.691666667;Kredi kartı;?44.225;9.4 
+726-29-6793;A;Izmir;Member;Erkek;Elektronik aksesuar;?2.418;8;9672;203112;1/28/2019;0.870833333;Ecuzdan;?9.672;9.7 
+387-49-4215;B;Manisa;Member;Kadın;Spor ve gezi;?485;3;7275;152775;1.08.2019;0.534722222;Nakit;?7.275;6.6 
+862-17-9201;B;Manisa;Normal;Kadın;Yiyecek icecek;?8.405;6;25215;529515;1/29/2019;0.45;Kredi kartı;?25.215;7.6 
+291-21-5991;B;Manisa;Member;Erkek;Saglık ve Guzellik;?6.129;5;153225;3217725;3/29/2019;0.602777778;Nakit;?153.225;0.7 
+602-80-9671;C;Aydın;Member;Kadın;Ev ve Yasam;?1.595;6;4785;100485;2.09.2019;0.71875;Kredi kartı;?4.785;5.0 
+347-72-6115;B;Manisa;Member;Kadın;Spor ve gezi;?9.074;7;31759;666939;1/16/2019;0.752083333;Kredi kartı;?31.759;6.1 
+209-61-0206;A;Izmir;Normal;Kadın;Ev ve Yasam;?4.291;5;107275;2252775;1.05.2019;0.728472222;Ecuzdan;?107.275;6.0 
+595-27-4851;A;Izmir;Normal;Kadın;Moda aksesuar;?5.428;7;18998;398958;1/27/2019;0.753472222;Ecuzdan;?18.998;9.2 
+189-52-0236;A;Izmir;Normal;Erkek;Elektronik aksesuar;?9.955;7;348425;7316925;3/14/2019;0.504861111;Nakit;?348.425;7.5 
+503-07-0930;C;Aydın;Member;Erkek;Spor ve gezi;?5.839;7;204365;4291665;2/23/2019;0.825694444;Kredi kartı;?204.365;8.1 
+413-20-6708;C;Aydın;Member;Kadın;Moda aksesuar;?5.147;1;25735;540435;3/18/2019;0.661111111;Ecuzdan;?25.735;8.4 
+425-85-2085;B;Manisa;Member;Erkek;Saglık ve Guzellik;?5.486;5;13715;288015;3/29/2019;0.7;Ecuzdan;?13.715;9.7 
+521-18-7827;C;Aydın;Member;Erkek;Ev ve Yasam;?3.939;5;98475;2067975;1/22/2019;0.865277778;Kredi kartı;?98.475;8.6 
+220-28-1851;A;Izmir;Normal;Erkek;Ev ve Yasam;?3.473;2;3473;72933;3.01.2019;0.759722222;Ecuzdan;?3.473;9.6 
+600-38-9738;C;Aydın;Member;Erkek;Spor ve gezi;?7.192;5;1798;37758;1/17/2019;0.628472222;Kredi kartı;?1.798;4.3 
+734-91-1155;B;Manisa;Normal;Kadın;Elektronik aksesuar;?4.571;3;68565;1439865;3/26/2019;0.440277778;Kredi kartı;?68.565;7.6 
+451-28-5717;C;Aydın;Member;Kadın;Ev ve Yasam;?8.317;6;24951;523971;3/20/2019;0.474305556;Nakit;?24.951;7.2 
+609-81-8548;A;Izmir;Member;Kadın;Ev ve Yasam;?3.744;6;11232;235872;2.06.2019;0.579861111;Kredi kartı;?11.232;5.8 
+133-14-7229;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?6.287;2;6287;132027;1.01.2019;0.488194444;Nakit;?6.287;0.5 
+534-01-4457;A;Izmir;Normal;Erkek;Yiyecek icecek;?8.171;6;24513;514773;1/27/2019;0.608333333;Kredi kartı;?24.513;0.8 
+719-89-8991;A;Izmir;Member;Kadın;Spor ve gezi;?9.141;5;228525;4799025;2/25/2019;0.66875;Ecuzdan;?228.525;7.0 
+286-62-6248;B;Manisa;Normal;Erkek;Moda aksesuar;?3.921;4;7842;164682;1/16/2019;0.835416667;Kredi kartı;?7.842;0.9 
+339-38-9982;B;Manisa;Member;Erkek;Moda aksesuar;?5.986;2;5986;125706;1/13/2019;0.621527778;Ecuzdan;?5.986;6.6 
+827-44-5872;B;Manisa;Member;Kadın;Yiyecek icecek;?5.436;10;2718;57078;2.07.2019;0.477777778;Kredi kartı;?2.718;6.0 
+827-77-7633;A;Izmir;Normal;Erkek;Spor ve gezi;?9.809;9;441405;9269505;2/17/2019;0.820138889;Nakit;?441.405;9.2 
+287-83-1405;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?2.543;6;7629;160209;2.12.2019;0.792361111;Ecuzdan;?7.629;0.7 
+435-13-4908;A;Izmir;Member;Erkek;Moda aksesuar;?8.668;8;34672;728112;1/24/2019;0.752777778;Kredi kartı;?34.672;7.1 
+857-67-9057;B;Manisa;Normal;Erkek;Elektronik aksesuar;?2.295;10;11475;240975;2.06.2019;0.805555556;Ecuzdan;?11.475;8.1 
+236-27-1144;C;Aydın;Normal;Kadın;Yiyecek icecek;?1.631;9;73395;1541295;3/26/2019;0.438194444;Ecuzdan;?73.395;8.3 
+892-05-6689;A;Izmir;Normal;Kadın;Ev ve Yasam;?2.832;5;708;14868;3.11.2019;0.561111111;Ecuzdan;?708;6.1 
+583-41-4548;C;Aydın;Normal;Erkek;Ev ve Yasam;?1.667;7;58345;1225245;2.07.2019;0.483333333;Ecuzdan;?58.345;7.3 
+339-12-4827;B;Manisa;Member;Kadın;Moda aksesuar;?7.396;1;3698;77658;1.05.2019;0.480555556;Kredi kartı;?3.698;0.5 
+643-38-7867;A;Izmir;Normal;Erkek;Ev ve Yasam;?9.794;1;4897;102837;3.07.2019;0.488888889;Ecuzdan;?4.897;6.8 
+308-81-0538;A;Izmir;Normal;Kadın;Moda aksesuar;?7.305;4;1461;30681;2/25/2019;0.719444444;Kredi kartı;?1.461;4.9 
+358-88-9262;C;Aydın;Member;Kadın;Yiyecek icecek;?8.748;6;26244;551124;2.01.2019;0.779861111;Ecuzdan;?26.244;5.0 
+460-35-4390;A;Izmir;Normal;Erkek;Ev ve Yasam;?3.068;3;4602;96642;1/22/2019;0.458333333;Ecuzdan;?4.602;9.0 
+343-87-0864;C;Aydın;Member;Erkek;Saglık ve Guzellik;?7.588;1;3794;79674;1.03.2019;0.4375;Kredi kartı;?3.794;7.0 
+173-50-1108;B;Manisa;Member;Kadın;Spor ve gezi;?2.018;4;4036;84756;2/13/2019;0.509722222;Kredi kartı;?4.036;0.5 
+243-47-2663;C;Aydın;Member;Erkek;Elektronik aksesuar;?1.877;6;5631;118251;1/28/2019;0.696527778;Kredi kartı;?5.631;5.4 
+841-18-8232;B;Manisa;Normal;Kadın;Yiyecek icecek;?712;1;356;7476;1.05.2019;0.861111111;Kredi kartı;?356;9.1 
+701-23-5550;B;Manisa;Member;Erkek;Ev ve Yasam;?3.881;4;7762;163002;3/19/2019;0.569444444;Ecuzdan;?7.762;4.9 
+647-50-1224;A;Izmir;Normal;Kadın;Moda aksesuar;?2.942;10;1471;30891;1.12.2019;0.682638889;Ecuzdan;?1.471;8.8 
+541-48-8554;A;Izmir;Normal;Erkek;Spor ve gezi;?6.095;9;274275;5759775;1.07.2019;0.505555556;Kredi kartı;?274.275;0.6 
+539-21-7227;B;Manisa;Normal;Kadın;Spor ve gezi;?5.154;5;12885;270585;1/26/2019;0.739583333;Nakit;?12.885;4.2 
+213-32-1216;A;Izmir;Normal;Kadın;Elektronik aksesuar;?6.606;6;19818;416178;1/23/2019;0.436111111;Nakit;?19.818;7.2 
+747-58-7183;B;Manisa;Normal;Erkek;Moda aksesuar;?5.727;3;85905;1804005;2.09.2019;0.854861111;Ecuzdan;?85.905;6.4 
+582-52-8065;B;Manisa;Normal;Kadın;Moda aksesuar;?5.431;9;244395;5132295;2/22/2019;0.450694444;Nakit;?244.395;8.8 
+210-57-1719;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?5.824;9;26208;550368;2.05.2019;0.523611111;Nakit;?26.208;9.6 
+399-69-4630;C;Aydın;Normal;Erkek;Elektronik aksesuar;?2.221;6;6663;139923;3.07.2019;0.432638889;Kredi kartı;?6.663;8.5 
+134-75-2619;A;Izmir;Member;Erkek;Elektronik aksesuar;?1.932;7;6762;142002;3/25/2019;0.785416667;Nakit;?6.762;6.8 
+356-44-8813;B;Manisa;Normal;Erkek;Ev ve Yasam;?3.748;3;5622;118062;1/20/2019;0.572916667;Kredi kartı;?5.622;7.6 
+198-66-9832;B;Manisa;Member;Kadın;Moda aksesuar;?7.204;2;7204;151284;2.04.2019;0.818055556;Nakit;?7.204;9.4 
+283-26-5248;C;Aydın;Member;Kadın;Yiyecek icecek;?9.852;10;4926;103446;1/30/2019;0.849305556;Ecuzdan;?4.926;4.5 
+712-39-0363;A;Izmir;Member;Erkek;Yiyecek icecek;?4.166;6;12498;262458;1.02.2019;0.641666667;Ecuzdan;?12.498;5.5 
+218-59-9410;A;Izmir;Member;Kadın;Ev ve Yasam;?7.242;3;10863;228123;3/29/2019;0.704166667;Ecuzdan;?10.863;8.1 
+174-75-0888;B;Manisa;Normal;Erkek;Elektronik aksesuar;?2.158;9;9711;203931;3/14/2019;0.522222222;Nakit;?9.711;7.2 
+866-99-7614;C;Aydın;Normal;Erkek;Yiyecek icecek;?892;10;446;9366;2.11.2019;0.654166667;Kredi kartı;?446;4.4 
+134-54-4720;B;Manisa;Normal;Kadın;Elektronik aksesuar;?4.242;8;16968;356328;1/30/2019;0.581944444;Ecuzdan;?16.968;5.6 
+760-90-2357;A;Izmir;Member;Erkek;Elektronik aksesuar;?7.451;6;22353;469413;3/20/2019;0.630555556;Ecuzdan;?22.353;0.5 
+514-37-2845;B;Manisa;Normal;Erkek;Moda aksesuar;?9.925;2;9925;208425;3/20/2019;0.543055556;Nakit;?9.925;0.9 
+698-98-5964;A;Izmir;Normal;Kadın;Yiyecek icecek;?8.121;10;40605;852705;1/17/2019;0.542361111;Kredi kartı;?40.605;6.2 
+718-57-9773;C;Aydın;Normal;Kadın;Spor ve gezi;?4.933;10;24665;517965;2.03.2019;0.694444444;Kredi kartı;?24.665;9.3 
+651-88-7328;A;Izmir;Normal;Kadın;Moda aksesuar;?6.574;9;29583;621243;1.01.2019;0.579861111;Nakit;?29.583;7.6 
+241-11-2261;B;Manisa;Normal;Kadın;Moda aksesuar;?7.986;7;27951;586971;1.10.2019;0.439583333;Kredi kartı;?27.951;5.4 
+408-26-9866;C;Aydın;Normal;Kadın;Spor ve gezi;?7.398;7;25893;543753;3.02.2019;0.695833333;Ecuzdan;?25.893;4.1 
+834-83-1826;B;Manisa;Member;Kadın;Ev ve Yasam;?8.204;5;2051;43071;2/25/2019;0.719444444;Kredi kartı;?2.051;7.5 
+343-61-3544;B;Manisa;Member;Erkek;Spor ve gezi;?2.667;10;13335;280035;1/29/2019;0.491666667;Nakit;?13.335;8.5 
+239-48-4278;A;Izmir;Member;Erkek;Yiyecek icecek;?1.013;7;35455;744555;3.10.2019;0.815972222;Ecuzdan;?35.455;8.2 
+355-34-6244;B;Manisa;Normal;Erkek;Yiyecek icecek;?7.239;2;7239;152019;1/13/2019;0.829861111;Kredi kartı;?7.239;8.0 
+550-84-8664;A;Izmir;Normal;Erkek;Spor ve gezi;?8.591;5;214775;4510275;3/22/2019;0.60625;Kredi kartı;?214.775;8.5 
+339-96-8318;B;Manisa;Member;Erkek;Moda aksesuar;?8.131;7;284585;5976285;3.01.2019;0.825694444;Ecuzdan;?284.585;6.2 
+458-61-0011;B;Manisa;Normal;Erkek;Yiyecek icecek;?603;4;1206;25326;2/20/2019;0.779861111;Nakit;?1.206;5.7 
+592-34-6155;C;Aydın;Normal;Erkek;Yiyecek icecek;?3.177;4;6354;133434;1/14/2019;0.613194444;Ecuzdan;?6.354;6.1 
+797-88-0493;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?6.427;4;12854;269934;3/26/2019;0.579166667;Nakit;?12.854;7.6 
+207-73-1363;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?6.951;2;6951;145971;3.01.2019;0.510416667;Ecuzdan;?6.951;8.0 
+390-31-6381;C;Aydın;Normal;Erkek;Yiyecek icecek;?2.722;3;4083;85743;1.07.2019;0.525694444;Nakit;?4.083;7.2 
+443-82-0585;A;Izmir;Member;Kadın;Saglık ve Guzellik;?7.768;4;15536;326256;2.01.2019;0.829166667;Nakit;?15.536;8.3 
+339-18-7061;C;Aydın;Member;Kadın;Moda aksesuar;?9.298;2;9298;195258;2/13/2019;0.629166667;Kredi kartı;?9.298;0.8 
+359-90-3665;B;Manisa;Member;Kadın;Moda aksesuar;?1.808;4;3616;75936;1/14/2019;0.752083333;Kredi kartı;?3.616;9.4 
+375-72-3056;B;Manisa;Normal;Erkek;Spor ve gezi;?6.306;3;9459;198639;1/19/2019;0.665277778;Ecuzdan;?9.459;0.7 
+127-47-6963;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?5.171;4;10342;217182;3.09.2019;0.578472222;Kredi kartı;?10.342;9.7 
+278-86-2735;A;Izmir;Normal;Kadın;Yiyecek icecek;?5.234;3;7851;164871;3/27/2019;0.585416667;Nakit;?7.851;9.1 
+695-28-6250;A;Izmir;Normal;Kadın;Spor ve gezi;?4.306;5;10765;226065;2.04.2019;0.693055556;Ecuzdan;?10.765;7.6 
+379-17-6588;C;Aydın;Normal;Erkek;Moda aksesuar;?5.961;10;29805;625905;3/14/2019;0.463194444;Nakit;?29.805;5.2 
+227-50-3718;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?1.462;5;3655;76755;3.04.2019;0.515972222;Nakit;?3.655;4.4 
+302-15-2162;C;Aydın;Member;Erkek;Saglık ve Guzellik;?4.653;6;13959;293139;3.03.2019;0.454166667;Kredi kartı;?13.959;4.3 
+788-07-8452;C;Aydın;Member;Kadın;Ev ve Yasam;?2.424;7;8484;178164;1/27/2019;0.734722222;Ecuzdan;?8.484;9.3 
+560-49-6611;A;Izmir;Member;Kadın;Spor ve gezi;?4.558;1;2279;47859;2.07.2019;0.592361111;Nakit;?2.279;9.7 
+880-35-0356;A;Izmir;Member;Kadın;Spor ve gezi;?752;3;1128;23688;2.05.2019;0.49375;Ecuzdan;?1.128;4.8 
+585-11-6748;B;Manisa;Member;Erkek;Spor ve gezi;?968;3;1452;30492;3/15/2019;0.545138889;Nakit;?1.452;5.2 
+470-31-3286;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?1.482;3;2223;46683;3.01.2019;0.479166667;Kredi kartı;?2.223;8.6 
+152-68-2907;A;Izmir;Normal;Erkek;Yiyecek icecek;?522;3;783;16443;2/15/2019;0.5625;Kredi kartı;?783;9.4 
+123-35-4896;C;Aydın;Normal;Kadın;Spor ve gezi;?4.666;9;20997;440937;2/17/2019;0.799305556;Ecuzdan;?20.997;5.2 
+258-69-7810;C;Aydın;Normal;Kadın;Moda aksesuar;?3.685;5;92125;1934625;1/26/2019;0.786805556;Nakit;?92.125;9.1 
+334-64-2006;A;Izmir;Member;Kadın;Ev ve Yasam;?7.032;2;7032;147672;3/24/2019;0.598611111;Ecuzdan;?7.032;9.5 
+219-61-4139;C;Aydın;Normal;Erkek;Elektronik aksesuar;?8.308;1;4154;87234;1/23/2019;0.719444444;Ecuzdan;?4.154;6.3 
+881-41-7302;C;Aydın;Normal;Kadın;Moda aksesuar;?6.499;1;32495;682395;1/26/2019;0.420833333;Kredi kartı;?32.495;4.5 
+373-09-4567;C;Aydın;Normal;Erkek;Yiyecek icecek;?7.756;10;3878;81438;3/14/2019;0.857638889;Ecuzdan;?3.878;6.8 
+642-30-6693;B;Manisa;Normal;Kadın;Spor ve gezi;?5.451;6;16353;343413;3/17/2019;0.579166667;Ecuzdan;?16.353;7.7 
+484-22-8230;C;Aydın;Member;Kadın;Moda aksesuar;?5.189;7;181615;3813915;1.08.2019;0.838888889;Nakit;?181.615;4.5 
+830-58-2383;B;Manisa;Normal;Erkek;Ev ve Yasam;?3.175;4;635;13335;2.08.2019;0.643055556;Nakit;?635;8.5 
+559-98-9873;A;Izmir;Member;Kadın;Moda aksesuar;?5.365;7;187775;3943275;2.10.2019;0.538888889;Ecuzdan;?187.775;5.1 
+544-32-5024;C;Aydın;Member;Kadın;Yiyecek icecek;?4.979;4;9958;209118;3/28/2019;0.802777778;Kredi kartı;?9.958;6.3 
+318-12-0304;A;Izmir;Normal;Erkek;Moda aksesuar;?3.061;1;15305;321405;1/23/2019;0.513888889;Ecuzdan;?15.305;5.1 
+349-97-8902;B;Manisa;Member;Erkek;Yiyecek icecek;?5.789;2;5789;121569;1/17/2019;0.442361111;Ecuzdan;?5.789;8.8 
+421-95-9805;A;Izmir;Normal;Kadın;Elektronik aksesuar;?2.896;1;1448;30408;2.07.2019;0.429166667;Kredi kartı;?1.448;6.1 
+277-35-5865;C;Aydın;Member;Kadın;Yiyecek icecek;?9.897;9;445365;9352665;3.09.2019;0.474305556;Nakit;?445.365;6.6 
+789-23-8625;B;Manisa;Member;Erkek;Moda aksesuar;?9.322;3;13983;293643;1/24/2019;0.489583333;Nakit;?13.983;7.1 
+284-54-4231;C;Aydın;Member;Erkek;Spor ve gezi;?8.093;1;40465;849765;1/19/2019;0.672222222;Kredi kartı;?40.465;0.9 
+443-59-0061;A;Izmir;Member;Erkek;Yiyecek icecek;?6.745;10;33725;708225;2.03.2019;0.475694444;Ecuzdan;?33.725;4.2 
+509-29-3912;A;Izmir;Member;Kadın;Spor ve gezi;?3.872;9;17424;365904;3/20/2019;0.516666667;Ecuzdan;?17.424;4.2 
+327-40-9673;B;Manisa;Member;Erkek;Spor ve gezi;?726;6;2178;45738;1/13/2019;0.827083333;Nakit;?2.178;6.8 
+840-19-2096;C;Aydın;Member;Erkek;Elektronik aksesuar;?8.791;5;219775;4615275;3/14/2019;0.756944444;Ecuzdan;?219.775;4.4 
+828-46-6863;A;Izmir;Member;Erkek;Yiyecek icecek;?9.853;6;29559;620739;1/23/2019;0.473611111;Kredi kartı;?29.559;0.4 
+641-96-3695;C;Aydın;Member;Kadın;Moda aksesuar;?4.346;6;13038;273798;2.07.2019;0.746527778;Ecuzdan;?13.038;8.4 
+420-97-3340;A;Izmir;Normal;Kadın;Yiyecek icecek;?7.168;3;10752;225792;3/28/2019;0.645833333;Kredi kartı;?10.752;9.1 
+436-54-4512;A;Izmir;Member;Kadın;Yiyecek icecek;?9.161;1;45805;961905;3/20/2019;0.822222222;Nakit;?45.805;9.7 
+670-79-6321;B;Manisa;Member;Kadın;Ev ve Yasam;?9.459;7;331065;6952365;1/17/2019;0.64375;Kredi kartı;?331.065;4.9 
+852-62-7105;B;Manisa;Normal;Kadın;Moda aksesuar;?8.325;10;41625;874125;1.12.2019;0.475694444;Kredi kartı;?41.625;4.4 
+598-06-7312;B;Manisa;Member;Erkek;Moda aksesuar;?9.135;1;45675;959175;2/16/2019;0.654166667;Nakit;?45.675;6.7 
+135-13-8269;B;Manisa;Member;Kadın;Yiyecek icecek;?7.888;2;7888;165648;1/26/2019;0.669444444;Nakit;?7.888;9.0 
+816-57-2053;A;Izmir;Normal;Erkek;Spor ve gezi;?6.087;2;6087;127827;3.09.2019;0.525694444;Ecuzdan;?6.087;8.6 
+628-90-8624;B;Manisa;Member;Erkek;Saglık ve Guzellik;?8.258;10;4129;86709;3/14/2019;0.611805556;Nakit;?4.129;0.5 
+856-66-2701;A;Izmir;Member;Erkek;Ev ve Yasam;?533;3;7995;167895;1/25/2019;0.596527778;Ecuzdan;?7.995;7.4 
+308-39-1707;A;Izmir;Normal;Kadın;Moda aksesuar;?1.209;1;6045;126945;1/26/2019;0.763194444;Kredi kartı;?6.045;8.1 
+149-61-1929;A;Izmir;Normal;Erkek;Spor ve gezi;?6.419;10;32095;673995;1/19/2019;0.588888889;Kredi kartı;?32.095;6.6 
+655-07-2265;A;Izmir;Normal;Erkek;Elektronik aksesuar;?7.831;3;117465;2466765;3.05.2019;0.693055556;Ecuzdan;?117.465;5.3 
+589-02-8023;A;Izmir;Member;Erkek;Yiyecek icecek;?8.377;2;8377;175917;1/15/2019;0.454166667;Kredi kartı;?8.377;0.7 
+420-04-7590;B;Manisa;Normal;Erkek;Ev ve Yasam;?997;3;14955;314055;3/18/2019;0.478472222;Ecuzdan;?14.955;4.7 
+182-88-2763;B;Manisa;Member;Erkek;Yiyecek icecek;?7.991;3;119865;2517165;3/20/2019;0.811111111;Kredi kartı;?119.865;0.5 
+188-55-0967;B;Manisa;Member;Erkek;Saglık ve Guzellik;?6.647;10;33235;697935;1/15/2019;0.625694444;Kredi kartı;?33.235;0.5 
+610-46-4100;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?2.895;7;101325;2127825;3.03.2019;0.854861111;Kredi kartı;?101.325;0.6 
+318-81-2368;C;Aydın;Normal;Kadın;Elektronik aksesuar;?462;1;231;4851;3/19/2019;0.511111111;Nakit;?231;6.2 
+364-33-8584;B;Manisa;Member;Kadın;Yiyecek icecek;?1.763;5;44075;925575;3.08.2019;0.64375;Nakit;?44.075;8.4 
+665-63-9737;B;Manisa;Normal;Erkek;Moda aksesuar;?5.242;3;7863;165123;2/27/2019;0.733333333;Ecuzdan;?7.863;7.4 
+695-09-5146;B;Manisa;Member;Kadın;Yiyecek icecek;?9.879;3;148185;3111885;2/23/2019;0.833333333;Ecuzdan;?148.185;6.3 
+155-45-3814;C;Aydın;Member;Kadın;Elektronik aksesuar;?8.855;8;3542;74382;3/19/2019;0.645138889;Ecuzdan;?3.542;4.7 
+794-32-2436;B;Manisa;Member;Erkek;Elektronik aksesuar;?5.567;2;5567;116907;3/27/2019;0.630555556;Ecuzdan;?5.567;0.6 
+131-15-8856;C;Aydın;Member;Kadın;Yiyecek icecek;?7.252;8;29008;609168;3/30/2019;0.809722222;Kredi kartı;?29.008;0.4 
+273-84-2164;C;Aydın;Member;Erkek;Elektronik aksesuar;?1.205;5;30125;632625;2/16/2019;0.661805556;Ecuzdan;?30.125;5.4 
+706-36-6154;A;Izmir;Member;Erkek;Ev ve Yasam;?1.936;9;8712;182952;1/18/2019;0.779861111;Ecuzdan;?8.712;8.6 
+778-89-7974;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?7.021;6;21063;442323;3/30/2019;0.623611111;Nakit;?21.063;7.3 
+574-31-8277;B;Manisa;Member;Erkek;Moda aksesuar;?3.363;1;16815;353115;3/20/2019;0.829861111;Nakit;?16.815;5.5 
+859-71-0933;C;Aydın;Member;Kadın;Spor ve gezi;?1.549;2;1549;32529;1/16/2019;0.631944444;Nakit;?1.549;6.2 
+740-11-5257;C;Aydın;Normal;Erkek;Elektronik aksesuar;?2.474;10;1237;25977;2/24/2019;0.697222222;Nakit;?1.237;7.0 
+369-82-2676;B;Manisa;Normal;Erkek;Elektronik aksesuar;?7.566;5;18915;397215;1/15/2019;0.765277778;Ecuzdan;?18.915;7.7 
+563-47-4072;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?5.581;6;16743;351603;1/22/2019;0.494444444;Nakit;?16.743;9.8 
+742-04-5161;A;Izmir;Member;Erkek;Ev ve Yasam;?7.278;10;3639;76419;2.03.2019;0.725;Nakit;?3.639;7.2 
+149-15-7606;B;Manisa;Member;Erkek;Spor ve gezi;?3.732;9;16794;352674;3.06.2019;0.646527778;Ecuzdan;?16.794;5.0 
+133-77-3154;B;Manisa;Member;Erkek;Moda aksesuar;?6.018;4;12036;252756;2/16/2019;0.752777778;Kredi kartı;?12.036;9.3 
+169-52-4504;A;Izmir;Normal;Kadın;Elektronik aksesuar;?1.569;3;23535;494235;3/14/2019;0.592361111;Kredi kartı;?23.535;5.7 
+250-81-7186;C;Aydın;Normal;Kadın;Elektronik aksesuar;?9.969;1;49845;1046745;2/27/2019;0.432638889;Kredi kartı;?49.845;0.8 
+562-12-5430;A;Izmir;Member;Kadın;Moda aksesuar;?8.815;3;132225;2776725;1/18/2019;0.424305556;Ecuzdan;?132.225;7.8 
+816-72-8853;A;Izmir;Member;Kadın;Spor ve gezi;?2.793;5;69825;1466325;1/29/2019;0.658333333;Nakit;?69.825;5.8 
+491-38-3499;A;Izmir;Member;Erkek;Moda aksesuar;?5.545;1;27725;582225;2/26/2019;0.740277778;Kredi kartı;?27.725;4.9 
+322-02-2271;B;Manisa;Normal;Kadın;Spor ve gezi;?4.297;3;64455;1353555;2.03.2019;0.490277778;Nakit;?64.455;9.2 
+842-29-4695;C;Aydın;Member;Erkek;Spor ve gezi;?1.714;7;5999;125979;1/16/2019;0.504861111;Kredi kartı;?5.999;7.8 
+725-67-2480;B;Manisa;Member;Kadın;Moda aksesuar;?5.875;6;17625;370125;3/24/2019;0.759722222;Kredi kartı;?17.625;5.8 
+641-51-2661;C;Aydın;Member;Kadın;Yiyecek icecek;?871;10;4355;91455;2.12.2019;0.614583333;Kredi kartı;?4.355;9.8 
+714-02-3114;C;Aydın;Normal;Kadın;Spor ve gezi;?988;2;988;20748;2/21/2019;0.485416667;Nakit;?988;7.6 
+518-17-2983;A;Izmir;Normal;Kadın;Moda aksesuar;?4.863;4;9726;204246;2.04.2019;0.655555556;Ecuzdan;?9.726;7.5 
+779-42-2410;B;Manisa;Member;Erkek;Yiyecek icecek;?5.774;3;8661;181881;2/20/2019;0.545833333;Ecuzdan;?8.661;7.6 
+190-14-3147;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?1.797;4;3594;75474;2/23/2019;0.863194444;Ecuzdan;?3.594;6.3 
+408-66-6712;C;Aydın;Member;Kadın;Saglık ve Guzellik;?4.771;6;14313;300573;2/16/2019;0.596527778;Ecuzdan;?14.313;4.4 
+679-22-6530;B;Manisa;Normal;Kadın;Spor ve gezi;?4.062;2;4062;85302;1/17/2019;0.417361111;Kredi kartı;?4.062;4.1 
+588-47-8641;A;Izmir;Member;Erkek;Moda aksesuar;?5.604;10;2802;58842;1/14/2019;0.8125;Ecuzdan;?2.802;4.4 
+642-61-4706;B;Manisa;Member;Erkek;Yiyecek icecek;?934;2;934;19614;3/30/2019;0.690277778;Nakit;?934;5.4 
+576-31-4774;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?7.341;3;110115;2312415;3.02.2019;0.548611111;Ecuzdan;?110.115;0.4 
+556-41-6224;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?3.364;8;13456;282576;2/15/2019;0.715277778;Kredi kartı;?13.456;9.2 
+811-03-8790;A;Izmir;Normal;Kadın;Elektronik aksesuar;?4.548;10;2274;47754;3.01.2019;0.431944444;Kredi kartı;?2.274;4.8 
+242-11-3142;B;Manisa;Member;Erkek;Moda aksesuar;?8.377;2;8377;175917;2/24/2019;0.83125;Nakit;?8.377;4.6 
+752-23-3760;B;Manisa;Member;Kadın;Spor ve gezi;?6.408;7;22428;470988;2/19/2019;0.811805556;Kredi kartı;?22.428;7.2 
+274-05-5470;A;Izmir;Member;Kadın;Yiyecek icecek;?7.347;4;14694;308574;2/23/2019;0.770833333;Nakit;?14.694;0.6 
+648-94-3045;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?5.895;10;29475;618975;2.07.2019;0.602083333;Ecuzdan;?29.475;8.0 
+130-67-4723;A;Izmir;Member;Erkek;Yiyecek icecek;?485;6;1455;30555;1.11.2019;0.58125;Ecuzdan;?1.455;9.3 
+528-87-5606;B;Manisa;Member;Kadın;Elektronik aksesuar;?3.948;1;1974;41454;2.12.2019;0.821527778;Nakit;?1.974;6.4 
+320-85-2052;B;Manisa;Normal;Kadın;Spor ve gezi;?3.481;1;17405;365505;1/14/2019;0.424305556;Kredi kartı;?17.405;0.7 
+370-96-0655;C;Aydın;Normal;Kadın;Moda aksesuar;?4.932;6;14796;310716;1.09.2019;0.573611111;Ecuzdan;?14.796;7.0 
+105-10-6182;A;Izmir;Member;Erkek;Moda aksesuar;?2.148;2;2148;45108;2/27/2019;0.515277778;Ecuzdan;?2.148;6.5 
+510-79-0415;B;Manisa;Member;Kadın;Spor ve gezi;?2.308;6;6924;145404;1/24/2019;0.805555556;Ecuzdan;?6.924;4.9 
+241-96-5076;B;Manisa;Member;Kadın;Ev ve Yasam;?491;2;491;10311;1.08.2019;0.540277778;Kredi kartı;?491;6.3 
+767-97-4650;B;Manisa;Member;Kadın;Spor ve gezi;?6.483;2;6483;136143;1.08.2019;0.499305556;Kredi kartı;?6.483;0.8 
+648-83-1321;A;Izmir;Member;Erkek;Ev ve Yasam;?6.356;10;3178;66738;1/16/2019;0.749305556;Nakit;?3.178;4.3 
+173-57-2300;C;Aydın;Member;Erkek;Spor ve gezi;?7.288;2;7288;153048;3/13/2019;0.535416667;Nakit;?7.288;6.0 
+305-03-2383;A;Izmir;Normal;Kadın;Yiyecek icecek;?671;3;10065;211365;2/15/2019;0.441666667;Nakit;?10.065;7.4 
+394-55-6384;C;Aydın;Member;Kadın;Spor ve gezi;?7.019;9;315855;6632955;1/25/2019;0.568055556;Nakit;?315.855;6.6 
+266-20-6657;C;Aydın;Member;Erkek;Yiyecek icecek;?5.504;7;19264;404544;3.12.2019;0.81875;Ecuzdan;?19.264;5.1 
+689-05-1884;A;Izmir;Member;Erkek;Saglık ve Guzellik;?4.863;10;24315;510615;3.04.2019;0.530555556;Nakit;?24.315;8.7 
+196-01-2849;C;Aydın;Member;Kadın;Moda aksesuar;?7.338;7;25683;539343;2.10.2019;0.580555556;Nakit;?25.683;9.4 
+372-62-5264;C;Aydın;Normal;Kadın;Yiyecek icecek;?526;9;2367;49707;1/16/2019;0.6125;Nakit;?2.367;7.5 
+800-09-8606;A;Izmir;Member;Kadın;Ev ve Yasam;?8.737;5;218425;4586925;1/29/2019;0.822916667;Nakit;?218.425;6.5 
+182-52-7000;A;Izmir;Member;Kadın;Spor ve gezi;?2.704;4;5408;113568;1.01.2019;0.851388889;Ecuzdan;?5.408;6.8 
+826-58-8051;B;Manisa;Normal;Erkek;Ev ve Yasam;?6.219;4;12438;261198;1.06.2019;0.823611111;Ecuzdan;?12.438;4.3 
+868-06-0466;A;Izmir;Member;Erkek;Elektronik aksesuar;?6.958;9;31311;657531;2/19/2019;0.818055556;Kredi kartı;?31.311;7.7 
+751-41-9720;C;Aydın;Normal;Erkek;Ev ve Yasam;?975;10;4875;102375;1.12.2019;0.679166667;Ecuzdan;?4.875;0.8 
+626-43-7888;C;Aydın;Normal;Kadın;Moda aksesuar;?6.041;8;24164;507444;2.07.2019;0.515972222;Ecuzdan;?24.164;9.5 
+176-64-7711;B;Manisa;Normal;Erkek;Yiyecek icecek;?3.232;3;4848;101808;3/27/2019;0.799305556;Kredi kartı;?4.848;4.3 
+191-29-0321;B;Manisa;Member;Kadın;Moda aksesuar;?1.977;10;9885;207585;2/27/2019;0.789583333;Kredi kartı;?9.885;0.5 
+729-06-2010;B;Manisa;Member;Erkek;Saglık ve Guzellik;?8.047;9;362115;7604415;1.06.2019;0.470833333;Nakit;?362.115;9.1 
+640-48-5028;B;Manisa;Member;Kadın;Ev ve Yasam;?8.839;9;397755;8352855;3.02.2019;0.527777778;Nakit;?397.755;6.2 
+186-79-9562;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?7.177;7;251195;5275095;3/29/2019;0.5875;Nakit;?251.195;8.8 
+834-45-5519;B;Manisa;Normal;Kadın;Elektronik aksesuar;?43;4;86;1806;1/31/2019;0.866666667;Ecuzdan;?86;7.5 
+162-65-8559;C;Aydın;Member;Erkek;Yiyecek icecek;?6.898;1;3449;72429;1/21/2019;0.842361111;Nakit;?3.449;4.8 
+760-27-5490;C;Aydın;Normal;Erkek;Moda aksesuar;?1.562;8;6248;131208;1/20/2019;0.859027778;Ecuzdan;?6.248;9.0 
+445-30-9252;A;Izmir;Normal;Erkek;Spor ve gezi;?257;3;3855;80955;1/17/2019;0.749305556;Ecuzdan;?3.855;6.0 
+786-94-2700;A;Izmir;Member;Erkek;Yiyecek icecek;?8.062;6;24186;507906;2/28/2019;0.845833333;Nakit;?24.186;9.0 
+728-88-7867;C;Aydın;Member;Kadın;Ev ve Yasam;?7.553;4;15106;317226;3/19/2019;0.661111111;Ecuzdan;?15.106;8.2 
+183-21-3799;C;Aydın;Normal;Kadın;Elektronik aksesuar;?7.763;9;349335;7336035;2/19/2019;0.634722222;Ecuzdan;?349.335;7.1 
+268-20-3585;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?1.385;9;62325;1308825;2.04.2019;0.534722222;Ecuzdan;?62.325;0.6 
+735-32-9839;C;Aydın;Member;Erkek;Moda aksesuar;?987;8;3948;82908;1/31/2019;0.441666667;Ecuzdan;?3.948;8.4 
+258-92-7466;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?3.568;5;892;18732;2.06.2019;0.772916667;Kredi kartı;?892;6.5 
+857-16-3520;A;Izmir;Member;Kadın;Moda aksesuar;?7.146;7;25011;525231;3/28/2019;0.670833333;Ecuzdan;?25.011;4.5 
+482-17-1179;A;Izmir;Member;Erkek;Elektronik aksesuar;?1.194;3;1791;37611;1/19/2019;0.532638889;Kredi kartı;?1.791;8.0 
+788-21-5741;A;Izmir;Normal;Erkek;Moda aksesuar;?4.538;3;6807;142947;2/17/2019;0.565277778;Kredi kartı;?6.807;7.1 
+821-14-9046;B;Manisa;Member;Kadın;Moda aksesuar;?1.748;6;5244;110124;1/18/2019;0.627777778;Kredi kartı;?5.244;6.0 
+418-05-0656;B;Manisa;Normal;Kadın;Moda aksesuar;?2.556;7;8946;187866;2.02.2019;0.8625;Nakit;?8.946;7.0 
+678-79-0726;C;Aydın;Member;Kadın;Spor ve gezi;?9.063;9;407835;8564535;1/18/2019;0.644444444;Nakit;?407.835;5.0 
+776-68-1096;B;Manisa;Normal;Erkek;Ev ve Yasam;?4.412;3;6618;138978;3/18/2019;0.572916667;Kredi kartı;?6.618;7.8 
+592-46-1692;C;Aydın;Member;Kadın;Yiyecek icecek;?3.677;7;128695;2702595;1.11.2019;0.840277778;Nakit;?128.695;7.3 
+434-35-9162;B;Manisa;Member;Erkek;Yiyecek icecek;?2.334;4;4668;98028;2.04.2019;0.786805556;Ecuzdan;?4.668;7.3 
+149-14-0304;C;Aydın;Member;Kadın;Saglık ve Guzellik;?285;8;114;2394;2.06.2019;0.6;Nakit;?114;6.5 
+442-44-6497;C;Aydın;Member;Erkek;Ev ve Yasam;?5.557;3;83355;1750455;1.08.2019;0.4875;Kredi kartı;?83.355;5.8 
+174-64-0215;B;Manisa;Normal;Erkek;Spor ve gezi;?6.974;10;3487;73227;3.05.2019;0.742361111;Kredi kartı;?3.487;8.8 
+210-74-9613;C;Aydın;Normal;Erkek;Moda aksesuar;?9.726;4;19452;408492;3/16/2019;0.647916667;Ecuzdan;?19.452;6.7 
+299-29-0180;B;Manisa;Member;Kadın;Ev ve Yasam;?5.218;7;18263;383523;3.09.2019;0.454166667;Nakit;?18.263;9.2 
+247-11-2470;A;Izmir;Member;Kadın;Moda aksesuar;?2.232;4;4464;93744;3.01.2019;0.682638889;Kredi kartı;?4.464;4.4 
+635-28-5728;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?56;3;84;1764;2/28/2019;0.814583333;Ecuzdan;?84;4.8 
+756-49-0168;A;Izmir;Member;Erkek;Moda aksesuar;?197;1;985;20685;2.08.2019;0.485416667;Ecuzdan;?985;9.4 
+438-23-1242;B;Manisa;Normal;Erkek;Elektronik aksesuar;?7.588;7;26558;557718;1/24/2019;0.443055556;Ecuzdan;?26.558;8.8 
+238-45-6950;B;Manisa;Member;Erkek;Yiyecek icecek;?5.372;1;2686;56406;3.01.2019;0.835416667;Ecuzdan;?2.686;6.3 
+607-65-2441;C;Aydın;Member;Erkek;Saglık ve Guzellik;?8.195;10;40975;860475;3.10.2019;0.527083333;Kredi kartı;?40.975;0.6 
+386-27-7606;C;Aydın;Member;Kadın;Ev ve Yasam;?812;7;2842;59682;3/23/2019;0.665972222;Kredi kartı;?2.842;8.0 
+137-63-5492;C;Aydın;Normal;Erkek;Elektronik aksesuar;?5.876;10;2938;61698;1/29/2019;0.601388889;Ecuzdan;?2.938;0.9 
+197-77-7132;B;Manisa;Member;Erkek;Elektronik aksesuar;?9.156;8;36624;769104;1.12.2019;0.765277778;Ecuzdan;?36.624;0.6 
+805-86-0265;A;Izmir;Normal;Erkek;Ev ve Yasam;?9.396;9;42282;887922;3/20/2019;0.480555556;Nakit;?42.282;9.7 
+733-29-1227;C;Aydın;Normal;Erkek;Ev ve Yasam;?5.561;7;194635;4087335;3/23/2019;0.528472222;Nakit;?194.635;8.4 
+451-73-2711;C;Aydın;Normal;Erkek;Yiyecek icecek;?8.483;1;42415;890715;1/14/2019;0.638888889;Ecuzdan;?42.415;8.7 
+373-14-0504;A;Izmir;Member;Kadın;Spor ve gezi;?7.163;2;7163;150423;2.12.2019;0.60625;Ecuzdan;?7.163;8.7 
+546-80-2899;A;Izmir;Member;Erkek;Ev ve Yasam;?3.769;2;3769;79149;2/20/2019;0.645138889;Ecuzdan;?3.769;9.4 
+345-68-9016;C;Aydın;Member;Kadın;Spor ve gezi;?3.167;8;12668;266028;1.02.2019;0.679861111;Kredi kartı;?12.668;5.5 
+390-17-5806;C;Aydın;Member;Kadın;Yiyecek icecek;?3.842;1;1921;40341;2.02.2019;0.689583333;Nakit;?1.921;8.5 
+457-13-1708;B;Manisa;Member;Erkek;Moda aksesuar;?6.523;10;32615;684915;1.08.2019;0.796527778;Kredi kartı;?32.615;5.1 
+664-14-2882;C;Aydın;Member;Kadın;Ev ve Yasam;?1.053;5;26325;552825;1/30/2019;0.613194444;Kredi kartı;?26.325;5.7 
+487-79-6868;B;Manisa;Member;Kadın;Ev ve Yasam;?1.229;9;55305;1161405;3/26/2019;0.811111111;Kredi kartı;?55.305;0.8 
+314-23-4520;C;Aydın;Member;Erkek;Saglık ve Guzellik;?8.123;7;284305;5970405;1/15/2019;0.863888889;Nakit;?284.305;0.9 
+210-30-7976;B;Manisa;Member;Kadın;Moda aksesuar;?2.232;4;4464;93744;3/14/2019;0.469444444;Ecuzdan;?4.464;4.1 
+585-86-8361;A;Izmir;Normal;Kadın;Yiyecek icecek;?2.728;5;682;14322;2.03.2019;0.438194444;Kredi kartı;?682;8.5 
+807-14-7833;A;Izmir;Member;Kadın;Elektronik aksesuar;?1.742;10;871;18291;2/22/2019;0.520833333;Ecuzdan;?871;0.7 
+775-72-1988;B;Manisa;Normal;Erkek;Ev ve Yasam;?7.328;5;1832;38472;1/24/2019;0.628472222;Ecuzdan;?1.832;8.3 
+288-38-3758;C;Aydın;Member;Kadın;Moda aksesuar;?8.487;3;127305;2673405;1/25/2019;0.770833333;Ecuzdan;?127.305;7.3 
+652-43-6591;A;Izmir;Normal;Kadın;Moda aksesuar;?9.729;8;38916;817236;3.09.2019;0.554166667;Kredi kartı;?38.916;6.1 
+785-96-0615;B;Manisa;Member;Kadın;Elektronik aksesuar;?3.574;8;14296;300216;2/17/2019;0.644444444;Ecuzdan;?14.296;4.9 
+406-46-7107;A;Izmir;Normal;Kadın;Ev ve Yasam;?9.652;6;28956;608076;1.11.2019;0.494444444;Nakit;?28.956;4.5 
+250-17-5703;A;Izmir;Member;Erkek;Yiyecek icecek;?1.885;10;9425;197925;2/27/2019;0.766666667;Ecuzdan;?9.425;5.5 
+156-95-3964;A;Izmir;Normal;Kadın;Yiyecek icecek;?5.539;4;11078;232638;3/25/2019;0.638194444;Ecuzdan;?11.078;0.8 
+842-40-8179;B;Manisa;Member;Kadın;Yiyecek icecek;?772;10;386;8106;2.11.2019;0.443055556;Kredi kartı;?386;5.5 
+525-09-8450;B;Manisa;Normal;Erkek;Elektronik aksesuar;?7.213;10;36065;757365;1/31/2019;0.633333333;Kredi kartı;?36.065;4.2 
+410-67-1709;A;Izmir;Member;Kadın;Moda aksesuar;?6.388;8;25552;536592;1/20/2019;0.741666667;Ecuzdan;?25.552;9.8 
+587-73-4862;A;Izmir;Member;Kadın;Saglık ve Guzellik;?1.069;5;26725;561225;3/26/2019;0.463194444;Ecuzdan;?26.725;7.5 
+787-87-2010;A;Izmir;Member;Erkek;Saglık ve Guzellik;?555;4;111;2331;1/20/2019;0.658333333;Kredi kartı;?111;6.5 
+593-14-4239;B;Manisa;Normal;Kadın;Ev ve Yasam;?9.546;8;38184;801864;3.05.2019;0.819444444;Ecuzdan;?38.184;4.7 
+801-88-0346;C;Aydın;Normal;Kadın;Moda aksesuar;?7.606;3;11409;239589;1.05.2019;0.854166667;Kredi kartı;?11.409;9.7 
+388-76-2555;B;Manisa;Normal;Erkek;Spor ve gezi;?1.369;6;4107;86247;2/13/2019;0.582638889;Nakit;?4.107;6.2 
+711-31-1234;B;Manisa;Normal;Kadın;Elektronik aksesuar;?9.564;4;19128;401688;3/16/2019;0.785416667;Nakit;?19.128;7.8 
+886-54-6089;A;Izmir;Normal;Kadın;Ev ve Yasam;?1.143;6;3429;72009;1/15/2019;0.725;Nakit;?3.429;7.6 
+707-32-7409;B;Manisa;Member;Kadın;Spor ve gezi;?9.554;4;19108;401268;2/26/2019;0.498611111;Ecuzdan;?19.108;4.5 
+759-98-4285;C;Aydın;Member;Kadın;Saglık ve Guzellik;?8.587;7;300545;6311445;2/27/2019;0.792361111;Kredi kartı;?300.545;0.8 
+201-63-8275;C;Aydın;Member;Kadın;Spor ve gezi;?6.799;7;237965;4997265;2/17/2019;0.701388889;Ecuzdan;?237.965;5.6 
+471-06-8611;C;Aydın;Normal;Kadın;Yiyecek icecek;?5.242;1;2621;55041;2.06.2019;0.431944444;Kredi kartı;?2.621;6.2 
+200-16-5952;C;Aydın;Member;Erkek;Yiyecek icecek;?6.565;2;6565;137865;1/17/2019;0.698611111;Nakit;?6.565;0.6 
+120-54-2248;B;Manisa;Normal;Kadın;Yiyecek icecek;?2.886;5;7215;151515;1/22/2019;0.755555556;Kredi kartı;?7.215;0.8 
+102-77-2261;C;Aydın;Member;Erkek;Saglık ve Guzellik;?6.531;7;228585;4800285;3.05.2019;0.751388889;Kredi kartı;?228.585;4.2 
+875-31-8302;B;Manisa;Normal;Erkek;Spor ve gezi;?9.338;1;4669;98049;1.03.2019;0.546527778;Nakit;?4.669;9.5 
+102-06-2002;C;Aydın;Member;Erkek;Spor ve gezi;?2.525;5;63125;1325625;3/20/2019;0.744444444;Nakit;?63.125;6.0 
+457-94-0464;B;Manisa;Member;Erkek;Elektronik aksesuar;?8.787;9;395415;8303715;1/31/2019;0.855555556;Ecuzdan;?395.415;5.5 
+629-42-4133;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?218;8;872;18312;2/19/2019;0.808333333;Nakit;?872;8.2 
+534-53-3526;A;Izmir;Normal;Kadın;Spor ve gezi;?9.476;4;18952;397992;2.11.2019;0.670833333;Ecuzdan;?18.952;7.7 
+307-04-2070;A;Izmir;Member;Kadın;Moda aksesuar;?3.062;1;1531;32151;2.05.2019;0.593055556;Kredi kartı;?1.531;4.1 
+468-99-7231;C;Aydın;Normal;Kadın;Ev ve Yasam;?4.401;8;17604;369684;3.03.2019;0.733333333;Nakit;?17.604;8.7 
+516-77-6464;C;Aydın;Member;Kadın;Saglık ve Guzellik;?1.016;5;254;5334;2/24/2019;0.547222222;Ecuzdan;?254;4.1 
+404-91-5964;A;Izmir;Normal;Erkek;Elektronik aksesuar;?7.458;7;26103;548163;2.04.2019;0.672916667;Kredi kartı;?26.103;0.9 
+886-77-9084;C;Aydın;Normal;Erkek;Elektronik aksesuar;?7.189;8;28756;603876;2/19/2019;0.48125;Ecuzdan;?28.756;5.4 
+790-38-4466;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?1.099;5;27475;576975;1/23/2019;0.429166667;Kredi kartı;?27.475;9.2 
+704-10-4056;C;Aydın;Member;Erkek;Saglık ve Guzellik;?6.047;3;90705;1904805;1/14/2019;0.454861111;Kredi kartı;?90.705;5.5 
+497-37-6538;A;Izmir;Normal;Erkek;Spor ve gezi;?5.891;7;206185;4329885;1/17/2019;0.635416667;Ecuzdan;?206.185;9.6 
+651-96-5970;A;Izmir;Normal;Erkek;Moda aksesuar;?4.641;1;23205;487305;3.03.2019;0.8375;Kredi kartı;?23.205;0.4 
+400-80-4065;C;Aydın;Member;Erkek;Saglık ve Guzellik;?6.855;4;1371;28791;2/15/2019;0.847916667;Kredi kartı;?1.371;9.1 
+744-16-7898;B;Manisa;Normal;Kadın;Ev ve Yasam;?9.737;10;48685;1022385;1/15/2019;0.575;Kredi kartı;?48.685;4.9 
+263-12-5321;A;Izmir;Member;Erkek;Elektronik aksesuar;?926;7;3241;68061;2/27/2019;0.536111111;Kredi kartı;?3.241;9.2 
+702-72-0487;A;Izmir;Normal;Kadın;Elektronik aksesuar;?4.661;2;4661;97881;2/26/2019;0.519444444;Kredi kartı;?4.661;6.5 
+605-83-1050;B;Manisa;Normal;Erkek;Moda aksesuar;?2.718;2;2718;57078;3/15/2019;0.684722222;Ecuzdan;?2.718;4.3 
+443-60-9639;C;Aydın;Member;Kadın;Ev ve Yasam;?6.087;1;30435;639135;1/24/2019;0.558333333;Nakit;?30.435;5.4 
+864-24-7918;A;Izmir;Member;Kadın;Spor ve gezi;?2.449;10;12245;257145;2/22/2019;0.635416667;Nakit;?12.245;8.0 
+359-94-5395;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?9.278;1;4639;97419;3/15/2019;0.451388889;Kredi kartı;?4.639;9.7 
+401-09-4232;C;Aydın;Member;Erkek;Ev ve Yasam;?8.669;5;216725;4551225;2.11.2019;0.776388889;Ecuzdan;?216.725;9.3 
+751-15-6198;B;Manisa;Normal;Erkek;Spor ve gezi;?2.301;6;6903;144963;1.12.2019;0.697916667;Ecuzdan;?6.903;7.8 
+324-41-6833;C;Aydın;Member;Kadın;Elektronik aksesuar;?302;8;1208;25368;3.03.2019;0.8125;Ecuzdan;?1.208;5.0 
+474-33-8305;C;Aydın;Member;Erkek;Moda aksesuar;?6.739;7;235865;4953165;3/23/2019;0.557638889;Ecuzdan;?235.865;6.8 
+759-29-9521;A;Izmir;Member;Kadın;Moda aksesuar;?4.896;9;22032;462672;3.04.2019;0.477083333;Nakit;?22.032;0.8 
+831-81-6575;B;Manisa;Member;Kadın;Elektronik aksesuar;?7.559;9;340155;7143255;2/23/2019;0.466666667;Nakit;?340.155;0.8 
+220-68-6701;A;Izmir;Normal;Kadın;Ev ve Yasam;?7.747;4;15494;325374;3/17/2019;0.691666667;Nakit;?15.494;4.2 
+618-34-8551;A;Izmir;Normal;Kadın;Spor ve gezi;?9.318;2;9318;195678;1/16/2019;0.778472222;Kredi kartı;?9.318;8.4 
+257-60-7754;A;Izmir;Normal;Kadın;Elektronik aksesuar;?5.023;4;10046;210966;1.08.2019;0.716666667;Nakit;?10.046;0.9 
+559-61-5987;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?1.775;1;8875;186375;1/14/2019;0.443055556;Nakit;?8.875;8.5 
+189-55-2313;C;Aydın;Normal;Kadın;Moda aksesuar;?6.218;10;3109;65289;1/31/2019;0.439583333;Ecuzdan;?3.109;0.6 
+565-91-4567;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?1.075;8;43;903;3/15/2019;0.609722222;Ecuzdan;?43;6.1 
+380-60-5336;A;Izmir;Normal;Kadın;Elektronik aksesuar;?4.026;10;2013;42273;2/24/2019;0.754166667;Kredi kartı;?2.013;0.5 
+815-04-6282;C;Aydın;Member;Kadın;Spor ve gezi;?6.497;5;162425;3410925;2.08.2019;0.536111111;Kredi kartı;?162.425;6.4 
+674-56-6360;A;Izmir;Normal;Erkek;Elektronik aksesuar;?9.515;1;47575;999075;3/22/2019;0.583333333;Nakit;?47.575;0.6 
+778-34-2523;A;Izmir;Member;Kadın;Elektronik aksesuar;?4.862;8;19448;408408;1/24/2019;0.45625;Nakit;?19.448;0.5 
+499-27-7781;B;Manisa;Normal;Kadın;Yiyecek icecek;?5.321;8;21284;446964;3/14/2019;0.697916667;Ecuzdan;?21.284;0.5 
+477-59-2456;C;Aydın;Normal;Kadın;Moda aksesuar;?4.544;7;15904;333984;1/23/2019;0.46875;Nakit;?15.904;9.1 
+832-51-6761;A;Izmir;Normal;Erkek;Yiyecek icecek;?3.388;8;13552;284592;1/19/2019;0.853472222;Ecuzdan;?13.552;9.5 
+869-11-3082;B;Manisa;Member;Erkek;Saglık ve Guzellik;?9.616;4;19232;403872;1/27/2019;0.835416667;Kredi kartı;?19.232;8.3 
+190-59-3964;B;Manisa;Member;Erkek;Yiyecek icecek;?4.716;5;1179;24759;2.03.2019;0.607638889;Kredi kartı;?1.179;0.6 
+366-43-6862;B;Manisa;Normal;Erkek;Elektronik aksesuar;?5.289;4;10578;222138;3/25/2019;0.688888889;Ecuzdan;?10.578;6.6 
+186-43-8965;A;Izmir;Member;Kadın;Ev ve Yasam;?4.768;2;4768;100128;2/24/2019;0.423611111;Kredi kartı;?4.768;4.1 
+784-21-9238;C;Aydın;Member;Erkek;Spor ve gezi;?1.017;1;5085;106785;2.07.2019;0.59375;Nakit;?5.085;5.8 
+276-75-6884;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?6.871;3;103065;2164365;3.04.2019;0.420138889;Nakit;?103.065;8.6 
+109-86-4363;B;Manisa;Member;Kadın;Spor ve gezi;?6.008;7;21028;441588;2/14/2019;0.483333333;Kredi kartı;?21.028;4.5 
+569-76-2760;A;Izmir;Member;Kadın;Spor ve gezi;?2.201;4;4402;92442;1/29/2019;0.760416667;Kredi kartı;?4.402;6.5 
+222-42-0244;B;Manisa;Member;Kadın;Saglık ve Guzellik;?7.211;9;324495;6814395;1/28/2019;0.578472222;Kredi kartı;?324.495;7.6 
+760-53-9233;A;Izmir;Member;Erkek;Moda aksesuar;?4.128;3;6192;130032;3/26/2019;0.775694444;Kredi kartı;?6.192;8.4 
+538-22-0304;C;Aydın;Normal;Erkek;Elektronik aksesuar;?6.495;10;32475;681975;3/24/2019;0.76875;Nakit;?32.475;5.1 
+416-17-9926;A;Izmir;Member;Kadın;Elektronik aksesuar;?7.422;10;3711;77931;1.01.2019;0.6125;Kredi kartı;?3.711;4.3 
+237-44-6163;A;Izmir;Normal;Erkek;Elektronik aksesuar;?1.056;8;4224;88704;1/24/2019;0.738194444;Nakit;?4.224;7.5 
+636-17-0325;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?6.257;4;12514;262794;2/25/2019;0.775694444;Nakit;?12.514;9.4 
+343-75-9322;B;Manisa;Member;Kadın;Spor ve gezi;?1.185;8;474;9954;1.09.2019;0.690277778;Nakit;?474;4.1 
+528-14-9470;A;Izmir;Member;Erkek;Saglık ve Guzellik;?913;1;4565;95865;2/14/2019;0.6125;Ecuzdan;?4.565;9.1 
+427-45-9297;B;Manisa;Member;Kadın;Ev ve Yasam;?4.073;7;142555;2993655;3.12.2019;0.459027778;Ecuzdan;?142.555;5.3 
+807-34-3742;A;Izmir;Normal;Erkek;Moda aksesuar;?5.238;1;2619;54999;3/26/2019;0.822222222;Nakit;?2.619;5.7 
+288-62-1085;A;Izmir;Member;Erkek;Moda aksesuar;?3.854;5;9635;202335;1.09.2019;0.565277778;Ecuzdan;?9.635;5.5 
+670-71-7306;B;Manisa;Normal;Erkek;Spor ve gezi;?4.463;6;13389;281169;1.02.2019;0.838888889;Kredi kartı;?13.389;5.0 
+660-29-7083;C;Aydın;Normal;Erkek;Elektronik aksesuar;?5.587;10;27935;586635;1/15/2019;0.625694444;Nakit;?27.935;5.7 
+271-77-8740;C;Aydın;Member;Kadın;Spor ve gezi;?2.922;6;8766;184086;1.01.2019;0.486111111;Ecuzdan;?8.766;0.5 
+497-36-0989;A;Izmir;Normal;Erkek;Moda aksesuar;?5.194;3;7791;163611;2/15/2019;0.639583333;Nakit;?7.791;7.8 
+291-59-1384;B;Manisa;Normal;Erkek;Elektronik aksesuar;?603;1;3015;63315;2/28/2019;0.734722222;Nakit;?3.015;0.6 
+860-73-6466;A;Izmir;Member;Kadın;Spor ve gezi;?3.947;2;3947;82887;3.02.2019;0.677777778;Kredi kartı;?3.947;0.5 
+549-23-9016;C;Aydın;Member;Kadın;Yiyecek icecek;?1.487;2;1487;31227;2/13/2019;0.760416667;Kredi kartı;?1.487;8.8 
+896-34-0956;A;Izmir;Normal;Erkek;Moda aksesuar;?2.132;1;1066;22386;1/26/2019;0.529861111;Nakit;?1.066;5.8 
+804-38-3935;A;Izmir;Member;Erkek;Elektronik aksesuar;?9.378;3;14067;295407;1/30/2019;0.480555556;Kredi kartı;?14.067;5.8 
+585-90-0249;A;Izmir;Member;Erkek;Elektronik aksesuar;?7.326;1;3663;76923;1/27/2019;0.755555556;Ecuzdan;?3.663;9.6 
+862-29-5914;C;Aydın;Normal;Kadın;Spor ve gezi;?2.238;1;1119;23499;1/30/2019;0.713888889;Kredi kartı;?1.119;8.5 
+845-94-6841;C;Aydın;Member;Kadın;Yiyecek icecek;?7.288;9;32796;688716;1.08.2019;0.818055556;Nakit;?32.796;0.4 
+125-45-2293;A;Izmir;Normal;Kadın;Moda aksesuar;?991;6;2973;62433;1/19/2019;0.549305556;Nakit;?2.973;4.2 
+843-73-4724;A;Izmir;Normal;Erkek;Moda aksesuar;?741;1;3705;77805;1/25/2019;0.461805556;Nakit;?3.705;9.1 
+409-33-9708;A;Izmir;Normal;Kadın;Moda aksesuar;?9.848;2;9848;206808;2/19/2019;0.425;Ecuzdan;?9.848;9.1 
+658-66-3967;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?5.319;7;186165;3909465;1/14/2019;0.654166667;Ecuzdan;?186.165;0.5 
+866-70-2814;B;Manisa;Normal;Kadın;Elektronik aksesuar;?5.279;10;26395;554295;2/25/2019;0.498611111;Ecuzdan;?26.395;1.0 
+160-22-2687;A;Izmir;Member;Kadın;Saglık ve Guzellik;?9.595;5;239875;5037375;1/23/2019;0.597916667;Ecuzdan;?239.875;8.7 
+895-03-6665;B;Manisa;Normal;Kadın;Moda aksesuar;?3.651;9;164295;3450195;2/16/2019;0.452777778;Nakit;?164.295;4.2 
+770-42-8960;B;Manisa;Normal;Erkek;Yiyecek icecek;?2.112;8;8448;177408;1.01.2019;0.813194444;Nakit;?8.448;6.2 
+748-45-2862;A;Izmir;Member;Kadın;Ev ve Yasam;?2.831;4;5662;118902;3.07.2019;0.774305556;Nakit;?5.662;8.1 
+234-36-2483;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?5.759;6;17277;362817;2/15/2019;0.577083333;Nakit;?17.277;5.0 
+316-66-3011;A;Izmir;Member;Kadın;Yiyecek icecek;?4.763;9;214335;4501035;1/23/2019;0.524305556;Nakit;?214.335;0.5 
+848-95-6252;C;Aydın;Member;Kadın;Ev ve Yasam;?8.627;1;43135;905835;2/20/2019;0.558333333;Ecuzdan;?43.135;0.7 
+840-76-5966;A;Izmir;Member;Erkek;Spor ve gezi;?1.276;2;1276;26796;1.08.2019;0.754166667;Ecuzdan;?1.276;7.7 
+152-03-4217;B;Manisa;Normal;Kadın;Ev ve Yasam;?1.128;9;5076;106596;3/17/2019;0.496527778;Kredi kartı;?5.076;4.3 
+533-66-5566;B;Manisa;Normal;Kadın;Ev ve Yasam;?5.107;7;178745;3753645;1.12.2019;0.4875;Nakit;?178.745;0.7 
+124-31-1458;A;Izmir;Member;Kadın;Elektronik aksesuar;?7.959;3;119385;2507085;1.08.2019;0.604166667;Nakit;?119.385;6.5 
+176-78-1170;C;Aydın;Member;Erkek;Saglık ve Guzellik;?3.381;3;50715;1065015;1/26/2019;0.632638889;Ecuzdan;?50.715;7.2 
+361-59-0574;B;Manisa;Member;Erkek;Spor ve gezi;?9.053;8;36212;760452;3/15/2019;0.616666667;Kredi kartı;?36.212;6.4 
+101-81-4070;C;Aydın;Member;Kadın;Saglık ve Guzellik;?6.282;2;6282;131922;1/17/2019;0.525;Ecuzdan;?6.282;4.9 
+631-34-1880;C;Aydın;Member;Erkek;Yiyecek icecek;?2.431;3;36465;765765;1.08.2019;0.797916667;Kredi kartı;?36.465;4.3 
+852-82-2749;A;Izmir;Normal;Erkek;Spor ve gezi;?6.459;4;12918;271278;1.06.2019;0.565972222;Ecuzdan;?12.918;9.2 
+873-14-6353;A;Izmir;Member;Erkek;Yiyecek icecek;?2.482;7;8687;182427;2/16/2019;0.439583333;Kredi kartı;?8.687;7.0 
+584-66-4073;C;Aydın;Normal;Erkek;Moda aksesuar;?565;1;2825;59325;3/13/2019;0.65625;Ecuzdan;?2.825;9.5 
+544-55-9589;B;Manisa;Member;Kadın;Elektronik aksesuar;?2.143;10;10715;225015;1/28/2019;0.49375;Nakit;?10.715;6.1 
+166-19-2553;A;Izmir;Member;Erkek;Spor ve gezi;?8.906;6;26718;561078;1/18/2019;0.726388889;Nakit;?26.718;9.8 
+737-88-5876;A;Izmir;Member;Erkek;Ev ve Yasam;?2.329;4;4658;97818;3/19/2019;0.494444444;Kredi kartı;?4.658;5.8 
+154-87-7367;C;Aydın;Normal;Erkek;Ev ve Yasam;?6.526;8;26104;548184;3/15/2019;0.586111111;Ecuzdan;?26.104;6.2 
+885-56-0389;C;Aydın;Member;Erkek;Moda aksesuar;?5.235;1;26175;549675;2.12.2019;0.742361111;Nakit;?26.175;0.4 
+608-05-3804;B;Manisa;Member;Erkek;Elektronik aksesuar;?3.975;1;19875;417375;2/25/2019;0.846527778;Nakit;?19.875;6.0 
+448-61-3783;A;Izmir;Normal;Kadın;Elektronik aksesuar;?9.002;8;36008;756168;3/21/2019;0.672222222;Kredi kartı;?36.008;4.5 
+761-49-0439;B;Manisa;Member;Kadın;Elektronik aksesuar;?121;8;484;10164;1/19/2019;0.428472222;Ecuzdan;?484;8.5 
+490-95-0021;B;Manisa;Member;Kadın;Yiyecek icecek;?3.321;10;16605;348705;1.08.2019;0.600694444;Ecuzdan;?16.605;0.6 
+115-38-7388;C;Aydın;Member;Kadın;Moda aksesuar;?1.018;8;4072;85512;3/30/2019;0.535416667;Kredi kartı;?4.072;9.4 
+311-13-6971;B;Manisa;Member;Erkek;Spor ve gezi;?3.199;10;15995;335895;2/20/2019;0.6375;Kredi kartı;?15.995;9.8 
+291-55-6563;A;Izmir;Member;Kadın;Ev ve Yasam;?3.442;6;10326;216846;3/30/2019;0.53125;Ecuzdan;?10.326;7.4 
+548-48-3156;A;Izmir;Member;Kadın;Yiyecek icecek;?8.334;2;8334;175014;3/19/2019;0.567361111;Nakit;?8.334;7.5 
+460-93-5834;A;Izmir;Normal;Erkek;Spor ve gezi;?4.558;7;15953;335013;1/13/2019;0.41875;Nakit;?15.953;0.5 
+325-89-4209;A;Izmir;Member;Erkek;Yiyecek icecek;?879;1;4395;92295;2.05.2019;0.820833333;Ecuzdan;?4.395;6.6 
+884-80-6021;A;Izmir;Member;Kadın;Elektronik aksesuar;?7.347;10;36735;771435;3/23/2019;0.551388889;Ecuzdan;?36.735;9.4 
+137-74-8729;C;Aydın;Normal;Kadın;Moda aksesuar;?1.219;8;4876;102396;3/13/2019;0.532638889;Ecuzdan;?4.876;6.7 
+880-46-5796;A;Izmir;Member;Erkek;Spor ve gezi;?7.692;10;3846;80766;3/17/2019;0.828472222;Ecuzdan;?3.846;5.5 
+389-70-2397;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?8.366;5;20915;439215;2/21/2019;0.434722222;Nakit;?20.915;7.1 
+114-35-5271;B;Manisa;Normal;Kadın;Elektronik aksesuar;?5.791;8;23164;486444;2.07.2019;0.629166667;Nakit;?23.164;8.0 
+607-76-6216;C;Aydın;Member;Kadın;Moda aksesuar;?9.249;5;231225;4855725;3.02.2019;0.690972222;Kredi kartı;?231.225;8.5 
+715-20-1673;B;Manisa;Normal;Erkek;Elektronik aksesuar;?2.838;5;7095;148995;3.06.2019;0.872916667;Nakit;?7.095;9.3 
+811-35-1094;B;Manisa;Member;Erkek;Elektronik aksesuar;?5.045;6;15135;317835;2.06.2019;0.636111111;Kredi kartı;?15.135;8.8 
+699-88-1972;B;Manisa;Normal;Erkek;Saglık ve Guzellik;?9.916;8;39664;832944;1/28/2019;0.740972222;Kredi kartı;?39.664;4.2 
+781-84-8059;C;Aydın;Normal;Erkek;Moda aksesuar;?6.074;7;21259;446439;1/18/2019;0.682638889;Ecuzdan;?21.259;0.5 
+409-49-6995;C;Aydın;Member;Kadın;Yiyecek icecek;?4.727;6;14181;297801;2.05.2019;0.428472222;Nakit;?14.181;8.7 
+725-54-0677;C;Aydın;Member;Erkek;Saglık ve Guzellik;?856;7;2996;62916;3.02.2019;0.576388889;Nakit;?2.996;5.2 
+146-09-5432;A;Izmir;Member;Erkek;Yiyecek icecek;?3.504;9;15768;331128;2.09.2019;0.803472222;Ecuzdan;?15.768;4.6 
+377-79-7592;C;Aydın;Member;Kadın;Elektronik aksesuar;?4.484;9;20178;423738;1/14/2019;0.583333333;Kredi kartı;?20.178;7.4 
+509-10-0516;B;Manisa;Normal;Erkek;Ev ve Yasam;?4.597;4;9194;193074;2.09.2019;0.501388889;Ecuzdan;?9.194;5.0 
+595-94-9924;A;Izmir;Member;Kadın;Saglık ve Guzellik;?2.773;5;69325;1455825;3/26/2019;0.847916667;Kredi kartı;?69.325;4.2 
+865-41-9075;A;Izmir;Normal;Erkek;Yiyecek icecek;?1.153;7;40355;847455;1/28/2019;0.732638889;Nakit;?40.355;8.0 
+545-07-8534;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?5.832;2;5832;122472;2/14/2019;0.529166667;Ecuzdan;?5.832;0.6 
+118-62-1812;C;Aydın;Member;Kadın;Ev ve Yasam;?7.838;4;15676;329196;3/24/2019;0.747222222;Nakit;?15.676;7.8 
+450-42-3339;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?8.461;10;42305;888405;2.09.2019;0.790277778;Kredi kartı;?42.305;8.7 
+851-98-3555;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?8.288;5;2072;43512;3/24/2019;0.588888889;Kredi kartı;?2.072;6.5 
+186-71-5196;A;Izmir;Member;Kadın;Yiyecek icecek;?7.954;2;7954;167034;3/27/2019;0.6875;Ecuzdan;?7.954;6.1 
+624-01-8356;B;Manisa;Normal;Kadın;Ev ve Yasam;?4.901;10;24505;514605;1/27/2019;0.447222222;Kredi kartı;?24.505;4.2 
+313-66-9943;B;Manisa;Member;Kadın;Yiyecek icecek;?2.915;3;43725;918225;3/27/2019;0.853472222;Kredi kartı;?43.725;7.2 
+151-27-8496;C;Aydın;Normal;Kadın;Elektronik aksesuar;?5.613;4;11226;235746;1/19/2019;0.488194444;Ecuzdan;?11.226;8.5 
+453-33-6436;A;Izmir;Normal;Kadın;Ev ve Yasam;?9.312;8;37248;782208;2.07.2019;0.422916667;Nakit;?37.248;6.7 
+522-57-8364;A;Izmir;Member;Erkek;Moda aksesuar;?5.134;8;20536;431256;1/31/2019;0.416666667;Ecuzdan;?20.536;7.5 
+459-45-2396;A;Izmir;Member;Kadın;Yiyecek icecek;?996;3;1494;31374;2/25/2019;0.78125;Nakit;?1.494;5.7 
+717-96-4189;C;Aydın;Normal;Kadın;Elektronik aksesuar;?3.549;6;10647;223587;2.02.2019;0.527777778;Nakit;?10.647;4.1 
+722-13-2115;C;Aydın;Member;Erkek;Spor ve gezi;?4.285;1;21425;449925;3/14/2019;0.65;Kredi kartı;?21.425;9.2 
+749-81-8133;A;Izmir;Normal;Kadın;Moda aksesuar;?9.467;4;18934;397614;3.11.2019;0.502777778;Nakit;?18.934;6.7 
+777-67-2495;B;Manisa;Normal;Erkek;Ev ve Yasam;?6.897;3;103455;2172555;2/22/2019;0.476388889;Ecuzdan;?103.455;8.6 
+636-98-3364;B;Manisa;Member;Kadın;Elektronik aksesuar;?2.626;3;3939;82719;3.02.2019;0.525;Ecuzdan;?3.939;6.2 
+246-55-6923;C;Aydın;Member;Kadın;Ev ve Yasam;?3.579;9;161055;3382155;3.10.2019;0.629166667;Kredi kartı;?161.055;5.0 
+181-82-6255;B;Manisa;Normal;Kadın;Ev ve Yasam;?1.637;6;4911;103131;2.08.2019;0.456944444;Nakit;?4.911;0.7 
+838-02-1821;C;Aydın;Member;Kadın;Ev ve Yasam;?1.273;2;1273;26733;2/22/2019;0.506944444;Kredi kartı;?1.273;5.1 
+887-42-0517;C;Aydın;Normal;Kadın;Spor ve gezi;?8.314;7;29099;611079;1.10.2019;0.438194444;Kredi kartı;?29.099;6.5 
+457-12-0244;C;Aydın;Member;Kadın;Spor ve gezi;?3.522;6;10566;221886;3/14/2019;0.575694444;Ecuzdan;?10.566;6.4 
+226-34-0034;B;Manisa;Normal;Kadın;Elektronik aksesuar;?1.378;4;2756;57876;1.10.2019;0.465277778;Ecuzdan;?2.756;0.9 
+321-49-7382;B;Manisa;Member;Erkek;Spor ve gezi;?8.831;1;44155;927255;2/15/2019;0.734722222;Kredi kartı;?44.155;5.1 
+397-25-8725;A;Izmir;Member;Kadın;Saglık ve Guzellik;?3.962;9;17829;374409;1/13/2019;0.745833333;Kredi kartı;?17.829;6.7 
+431-66-2305;B;Manisa;Normal;Kadın;Elektronik aksesuar;?8.825;9;397125;8339625;2/15/2019;0.86875;Kredi kartı;?397.125;7.5 
+825-94-5922;B;Manisa;Normal;Erkek;Spor ve gezi;?2.531;2;2531;53151;3.02.2019;0.809722222;Ecuzdan;?2.531;7.1 
+641-62-7288;B;Manisa;Normal;Erkek;Ev ve Yasam;?9.992;6;29976;629496;3/24/2019;0.564583333;Ecuzdan;?29.976;7.0 
+756-93-1854;C;Aydın;Member;Kadın;Moda aksesuar;?8.335;2;8335;175035;2.02.2019;0.586805556;Kredi kartı;?8.335;9.4 
+243-55-8457;A;Izmir;Normal;Kadın;Yiyecek icecek;?7.444;10;3722;78162;2/27/2019;0.486111111;Ecuzdan;?3.722;5.0 
+458-10-8612;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?6.408;7;22428;470988;1/20/2019;0.51875;Ecuzdan;?22.428;7.5 
+501-61-1753;B;Manisa;Normal;Kadın;Ev ve Yasam;?6.315;6;18945;397845;1.03.2019;0.85;Ecuzdan;?18.945;9.7 
+235-06-8510;C;Aydın;Member;Erkek;Ev ve Yasam;?8.572;3;12858;270018;1/24/2019;0.874305556;Ecuzdan;?12.858;5.0 
+433-08-7822;C;Aydın;Normal;Kadın;Saglık ve Guzellik;?7.889;7;276115;5798415;1.05.2019;0.825;Ecuzdan;?276.115;7.4 
+361-85-2571;A;Izmir;Normal;Kadın;Spor ve gezi;?8.948;5;2237;46977;3/30/2019;0.429166667;Nakit;?2.237;7.3 
+131-70-8179;A;Izmir;Member;Kadın;Saglık ve Guzellik;?9.209;3;138135;2900835;2/17/2019;0.685416667;Nakit;?138.135;4.2 
+500-02-2261;C;Aydın;Normal;Kadın;Yiyecek icecek;?5.729;6;17187;360927;3/21/2019;0.711111111;Ecuzdan;?17.187;5.8 
+720-72-2436;A;Izmir;Normal;Erkek;Yiyecek icecek;?6.652;4;13304;279384;3.02.2019;0.759722222;Ecuzdan;?13.304;6.8 
+702-83-5291;C;Aydın;Member;Erkek;Moda aksesuar;?9.982;9;44919;943299;3/27/2019;0.446527778;Nakit;?44.919;6.5 
+809-69-9497;A;Izmir;Normal;Kadın;Ev ve Yasam;?4.568;10;2284;47964;1/19/2019;0.8125;Ecuzdan;?2.284;5.6 
+449-16-6770;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?5.079;5;126975;2666475;2/19/2019;0.620138889;Kredi kartı;?126.975;5.2 
+333-23-2632;A;Izmir;Member;Erkek;Saglık ve Guzellik;?1.008;7;3528;74088;3/28/2019;0.843055556;Nakit;?3.528;4.2 
+489-82-1237;A;Izmir;Normal;Kadın;Elektronik aksesuar;?9.388;7;32858;690018;1.05.2019;0.49375;Kredi kartı;?32.858;7.2 
+859-97-6048;C;Aydın;Member;Erkek;Elektronik aksesuar;?8.425;2;8425;176925;3/26/2019;0.592361111;Kredi kartı;?8.425;5.2 
+676-10-2200;B;Manisa;Member;Erkek;Moda aksesuar;?5.378;1;2689;56469;2.03.2019;0.842361111;Ecuzdan;?2.689;4.7 
+373-88-1424;C;Aydın;Member;Erkek;Ev ve Yasam;?3.581;5;89525;1880025;2.06.2019;0.780555556;Ecuzdan;?89.525;7.8 
+365-16-4334;B;Manisa;Normal;Kadın;Yiyecek icecek;?2.643;8;10572;222012;2/24/2019;0.601388889;Ecuzdan;?10.572;8.8 
+503-21-4385;B;Manisa;Member;Erkek;Saglık ve Guzellik;?3.991;3;59865;1257165;2/21/2019;0.527777778;Ecuzdan;?59.865;9.2 
+305-89-2768;B;Manisa;Member;Kadın;Ev ve Yasam;?219;3;3285;68985;1.09.2019;0.779861111;Ecuzdan;?3.285;4.7 
+574-80-1489;B;Manisa;Member;Kadın;Yiyecek icecek;?6.285;4;1257;26397;2/25/2019;0.556944444;Ecuzdan;?1.257;8.6 
+784-08-0310;C;Aydın;Member;Kadın;Yiyecek icecek;?2.104;4;4208;88368;1/13/2019;0.581944444;Nakit;?4.208;7.5 
+200-40-6154;B;Manisa;Member;Erkek;Ev ve Yasam;?6.591;6;19773;415233;2.09.2019;0.489583333;Nakit;?19.773;5.6 
+846-10-0341;A;Izmir;Normal;Kadın;Moda aksesuar;?4.257;7;148995;3128895;1.06.2019;0.49375;Nakit;?148.995;6.7 
+577-34-7579;C;Aydın;Member;Erkek;Yiyecek icecek;?5.049;9;227205;4771305;1.10.2019;0.719444444;Nakit;?227.205;5.3 
+430-02-3888;B;Manisa;Normal;Erkek;Elektronik aksesuar;?4.602;6;13806;289926;2.07.2019;0.663194444;Nakit;?13.806;7.0 
+867-47-1948;C;Aydın;Normal;Kadın;Ev ve Yasam;?158;10;79;1659;1.09.2019;0.504861111;Nakit;?79;7.7 
+384-59-6655;A;Izmir;Member;Kadın;Yiyecek icecek;?9.866;9;44397;932337;2/19/2019;0.629861111;Nakit;?44.397;8.3 
+256-58-3609;C;Aydın;Member;Erkek;Moda aksesuar;?9.198;1;4599;96579;3/18/2019;0.645138889;Nakit;?4.599;9.7 
+324-92-3863;A;Izmir;Member;Erkek;Elektronik aksesuar;?2.089;2;2089;43869;2.05.2019;0.78125;Nakit;?2.089;9.7 
+593-08-5916;A;Izmir;Normal;Kadın;Moda aksesuar;?155;1;775;16275;3/19/2019;0.640972222;Kredi kartı;?775;7.3 
+364-34-2972;C;Aydın;Member;Erkek;Elektronik aksesuar;?9.682;3;14523;304983;3/30/2019;0.859027778;Nakit;?14.523;6.6 
+794-42-3736;B;Manisa;Normal;Erkek;Yiyecek icecek;?3.333;2;3333;69993;1/26/2019;0.611805556;Kredi kartı;?3.333;6.3 
+172-42-8274;B;Manisa;Normal;Kadın;Elektronik aksesuar;?3.827;2;3827;80367;3.02.2019;0.7625;Kredi kartı;?3.827;5.7 
+558-60-5016;A;Izmir;Normal;Kadın;Ev ve Yasam;?333;9;14985;314685;3.04.2019;0.64375;Ecuzdan;?14.985;7.1 
+195-06-0432;A;Izmir;Member;Erkek;Ev ve Yasam;?8.101;3;121515;2551815;1/13/2019;0.538194444;Kredi kartı;?121.515;9.2 
+605-03-2706;A;Izmir;Normal;Kadın;Saglık ve Guzellik;?158;3;237;4977;3/25/2019;0.751388889;Nakit;?237;9.4 
+214-30-2776;B;Manisa;Member;Kadın;Elektronik aksesuar;?3.449;5;86225;1810725;3.11.2019;0.822222222;Kredi kartı;?86.225;0.9 
+746-04-1077;B;Manisa;Member;Kadın;Yiyecek icecek;?8.463;10;42315;888615;1.01.2019;0.483333333;Kredi kartı;?42.315;0.9 
+448-34-8700;B;Manisa;Member;Erkek;Ev ve Yasam;?3.691;7;129185;2712885;2.10.2019;0.577083333;Ecuzdan;?129.185;6.6 
+452-04-8808;B;Manisa;Normal;Erkek;Elektronik aksesuar;?8.708;7;30478;640038;1/26/2019;0.636805556;Nakit;?30.478;5.4 
+531-56-4728;A;Izmir;Normal;Erkek;Ev ve Yasam;?8.008;3;12012;252252;2.11.2019;0.645138889;Nakit;?12.012;5.3 
+744-82-9138;C;Aydın;Normal;Erkek;Moda aksesuar;?8.613;2;8613;180873;2.07.2019;0.749305556;Nakit;?8.613;8.1 
+883-69-1285;B;Manisa;Member;Erkek;Moda aksesuar;?4.992;2;4992;104832;3.06.2019;0.496527778;Kredi kartı;?4.992;0.7 
+221-25-5073;A;Izmir;Normal;Kadın;Yiyecek icecek;?7.466;4;14932;313572;3.04.2019;0.44375;Nakit;?14.932;8.4 
+518-71-6847;B;Manisa;Member;Erkek;Yiyecek icecek;?266;6;798;16758;2/26/2019;0.631944444;Ecuzdan;?798;4.9 
+156-20-0370;B;Manisa;Normal;Kadın;Elektronik aksesuar;?2.545;1;12725;267225;3.10.2019;0.756944444;Kredi kartı;?12.725;5.0 
+151-33-7434;B;Manisa;Normal;Kadın;Yiyecek icecek;?6.777;1;33885;711585;2.04.2019;0.863194444;Kredi kartı;?33.885;6.4 
+728-47-9078;C;Aydın;Member;Erkek;Yiyecek icecek;?5.959;4;11918;250278;1/19/2019;0.531944444;Nakit;?11.918;9.7 
+809-46-1866;A;Izmir;Normal;Erkek;Saglık ve Guzellik;?5.815;4;1163;24423;1/23/2019;0.738888889;Nakit;?1.163;8.3 
+139-32-4183;A;Izmir;Member;Kadın;Spor ve gezi;?9.748;9;43866;921186;3/14/2019;0.596527778;Ecuzdan;?43.866;7.3 
+148-41-7930;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?9.996;7;34986;734706;1/23/2019;0.439583333;Nakit;?34.986;6.0 
+189-40-5216;C;Aydın;Normal;Erkek;Elektronik aksesuar;?9.637;7;337295;7083195;1.09.2019;0.486111111;Nakit;?337.295;0.6 
+374-38-5555;B;Manisa;Normal;Kadın;Moda aksesuar;?6.371;5;159275;3344775;2.07.2019;0.8125;Ecuzdan;?159.275;8.4 
+764-44-8999;B;Manisa;Normal;Kadın;Saglık ve Guzellik;?1.476;2;1476;30996;2/18/2019;0.6125;Ecuzdan;?1.476;4.3 
+552-44-5977;B;Manisa;Member;Erkek;Saglık ve Guzellik;?62;8;248;5208;1.03.2019;0.797222222;Kredi kartı;?248;6.1 
+267-62-7380;C;Aydın;Member;Erkek;Elektronik aksesuar;?8.234;10;4117;86457;3/29/2019;0.8;Ecuzdan;?4.117;4.3 
+430-53-4718;B;Manisa;Member;Erkek;Saglık ve Guzellik;?7.537;8;30148;633108;1/28/2019;0.656944444;Kredi kartı;?30.148;8.3 
+886-18-2897;A;Izmir;Normal;Kadın;Yiyecek icecek;?5.656;5;1414;29694;3/22/2019;0.795833333;Kredi kartı;?1.414;4.5 
+602-16-6955;B;Manisa;Normal;Kadın;Spor ve gezi;?766;10;383;8043;1/24/2019;0.756944444;Ecuzdan;?383;0.6 
+745-74-0715;A;Izmir;Normal;Erkek;Elektronik aksesuar;?5.803;2;5803;121863;3.10.2019;0.865277778;Ecuzdan;?5.803;8.7 
+690-01-6631;B;Manisa;Normal;Erkek;Moda aksesuar;?1.749;10;8745;183645;2/22/2019;0.774305556;Ecuzdan;?8.745;6.5 
+652-49-6720;C;Aydın;Member;Kadın;Elektronik aksesuar;?6.095;1;30475;639975;2/18/2019;0.486111111;Ecuzdan;?30.475;5.8 
+233-67-5758;C;Aydın;Normal;Erkek;Saglık ve Guzellik;?4.035;1;20175;423675;1/29/2019;0.573611111;Ecuzdan;?20.175;6.1 
+303-96-2227;B;Manisa;Normal;Kadın;Ev ve Yasam;?9.738;10;4869;102249;3.02.2019;0.719444444;Ecuzdan;?4.869;4.4 
+727-02-1313;A;Izmir;Member;Erkek;Yiyecek icecek;?3.184;1;1592;33432;2.09.2019;0.556944444;Nakit;?1.592;7.6 
+347-56-2442;A;Izmir;Normal;Erkek;Ev ve Yasam;?6.582;1;3291;69111;2/22/2019;0.647916667;Nakit;?3.291;4.1 
+849-09-3807;A;Izmir;Member;Kadın;Moda aksesuar;?8.834;7;30919;649299;2/18/2019;0.561111111;Nakit;?30.919;6.5 
